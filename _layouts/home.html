@@ -17,8 +17,8 @@ layout: default
       <img style="float: inline-end" src="{{ site.baseurl }}/{{ post.image }}">
     </a>
     <li>
-      <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} -->
-      <span class="post-meta">{{ post.date | date_to_long_string: "ordinal" }}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date_format }}
 
       </span>
       <h3>
