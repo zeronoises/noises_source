@@ -13,7 +13,7 @@ permalink: /manifesto/
 ### at least one tune that you've always loved,  
 ### at least one tune that you'd forgotten you love,  
 ### at least one tune you've never heard before but now love,  
-### & at least one tune that you hate...
+### & just one tune that you hate...
 
 &nbsp;
 
