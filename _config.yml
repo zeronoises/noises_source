@@ -22,6 +22,11 @@ url: "https://zeronoises.github.io" # the base hostname & protocol for your site
 facebook_username: zeronoises
 disqus_shortname: noises
 
+header_pages:
+  - about.md
+  - zero.md
+  - manifesto.md
+
 # Build settings
 markdown: kramdown
 theme: minima
