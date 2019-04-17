@@ -1,0 +1,5 @@
+_site
+.sass-cache
+.jekyll-metadata
+.vscode
+_posts/template-post.md
