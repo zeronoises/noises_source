@@ -17,7 +17,7 @@ Each show follows a simple presentation format: three (sometimes more, occasiona
 
 [The current Surface Noise theme tune...](https://www.youtube.com/watch?v=eaw0zRHCrOk){:target="_blank"}
 
-**Surface Noise** exclusively features music from the Great Big Magic Box Of Sevens™ - which is to say, Zero's extensive collection of seven inch vinyl discs.
+**Surface Noise** exclusively features music from the [Great Big Magic Box Of Sevens](/tgbmbos.md/)™ - which is to say, Zero's extensive collection of seven inch vinyl discs.
 
 You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wave, bossa nova, post-punk, rock, prog, ska, garage, bluebeat, soul, rockabilly, punk, doo wop, be bop, hip hop, power pop, jazz, klezmer, mariachi, psychedelia, country, rhythm & blues and whatever else he can lay his hands on. Probably not techno, heavy metal or polkas. Probably.
 
