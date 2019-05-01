@@ -26,7 +26,7 @@ He moved to Manchester in 2001.
 
 He bought a pair of second hand [Technics SL-1200 Mk2](https://www.gearogs.com/gear/99615-sl-1200-mk2){:target="_blank"}'s from [Johnny Roadhouse](https://www.google.com/maps/@53.4706894,-2.2375953,3a,30y,66.52h,89.68t/data=!3m7!1e1!3m5!1s6DXLwGKSNhgaUizsmOOoxA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D6DXLwGKSNhgaUizsmOOoxA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D68.41871%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192){:target="_blank"} in 2006.
 
-He started [seriously collecting 7" vinyl](https://www.discogs.com/user/zerocc/collection?sort_by=artists_sort&facets=formats%255D%253A%255B7%2522){:target="_blank"} in 2008. Thanks sis...
+He started [seriously collecting 7" vinyl](/tgbmbos.md/){:target="_blank"} in 2008. Thanks sis...
 
 He moved back to London in 2016.
 
