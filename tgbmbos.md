@@ -14,7 +14,7 @@ with links to the Discogs page for each release
 &nbsp;
   
   
-|Artist|Title|Label|Catalogue|Year||  
+|Artist|Title|Label|Index|Year||  
 |---|---|---|---|---|---|  
 |101 Strings|Tubular Bells|Pye International|7N 25658|1974|[🔗](http://www.discogs.com/release/8629870){:target="_blank"}|  
 |10cc|I'm Not In Love|Mercury|6008 014|1975|[🔗](http://www.discogs.com/release/464657){:target="_blank"}|  
