@@ -1,9 +1,4 @@
 # noises
-just playing\
-around\
-with markdown\
-and\
-github pages\
-and jekyll.
+Website for Zero's radio shows: Surface Noise & Other Noises
 
-&nbsp;
+https://zeronoises.github.io/noises/
