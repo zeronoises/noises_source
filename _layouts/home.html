@@ -14,7 +14,7 @@ layout: default
   <ul class="post-list">
     {%- for post in site.posts -%}
     <a href="{{ post.url | relative_url }}">
-      <img style="float: inline-end" src="{{ site.baseurl }}/{{ post.image }}">
+      <img align="right" src="{{ site.baseurl }}/{{ post.image }}">
     </a>
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
