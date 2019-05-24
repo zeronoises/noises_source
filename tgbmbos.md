@@ -43,6 +43,7 @@ with links to the Discogs page for each release
 |Adam Ant|Goody Two Shoes|1982|[🔗](http://www.discogs.com/release/418398){:target="_blank"}|
 |Adam Faith|What Do You Want?|1959|[🔗](http://www.discogs.com/release/491291){:target="_blank"}|
 |Aeon Seven|Seven Breaks|2017|[🔗](http://www.discogs.com/release/10443180){:target="_blank"}|
+|African Music Machine|Tropical / A Girl In France|1973|[🔗](https://www.discogs.com//release/2920828){:target="_blank"}|
 |Age Of Chance|Kiss|1987|[🔗](http://www.discogs.com/release/3036927){:target="_blank"}|
 |Air Supply|All Out Of Love / Even The Nights Are Better||[🔗](http://www.discogs.com/release/2635572){:target="_blank"}|
 |Al Brown (4) + Skin, Flesh & Bones|Here I Am Baby, Come And Take Me|1974|[🔗](http://www.discogs.com/release/2069966){:target="_blank"}|
@@ -1161,6 +1162,7 @@ with links to the Discogs page for each release
 |The Fall|Theme From Sparta F.C. #2|2004|[🔗](http://www.discogs.com/release/899764){:target="_blank"}|
 |The Fall|Hit The North|1987|[🔗](http://www.discogs.com/release/342432){:target="_blank"}|
 |The Fall|Totally Wired|1980|[🔗](http://www.discogs.com/release/428000){:target="_blank"}|
+|The Fatback Band|Wicki Wacky|1974|[🔗](https://www.discogs.com/release/1122972){:target="_blank"}|
 |The Fatback Band|Yum, Yum (Gimme Some)|1975|[🔗](http://www.discogs.com/release/891652){:target="_blank"}|
 |The Fatback Band|(Are You Ready) Do The Bus Stop|1975|[🔗](http://www.discogs.com/release/536896){:target="_blank"}|
 |The Fentones|The Mexican|1962|[🔗](http://www.discogs.com/release/2472468){:target="_blank"}|
@@ -1253,6 +1255,7 @@ with links to the Discogs page for each release
 |The Move|Curly|1969|[🔗](http://www.discogs.com/release/469765){:target="_blank"}|
 |The Move|Brontosaurus|1970|[🔗](http://www.discogs.com/release/474345){:target="_blank"}|
 |The Mystic Moods Orchestra|Cosmic Sea|1973|[🔗](http://www.discogs.com/release/5774796){:target="_blank"}|
+|The Mystic Moods|Honey Trippin'|1976|[🔗](https://www.discogs.com/release/2248372){:target="_blank"}|
 |The Mystic Sounds|エクソシスト = Tubular Bells|1974|[🔗](http://www.discogs.com/release/5012165){:target="_blank"}|
 |The Nashville Teens|Tobacco Road|1964|[🔗](http://www.discogs.com/release/4848790){:target="_blank"}|
 |The Neptunas|Ask Any Mermaid|1995|[🔗](http://www.discogs.com/release/2204068){:target="_blank"}|
