@@ -8,8 +8,8 @@ permalink: /tgbmbos/
 
 &nbsp;
 
-The **Great Big Magic Box Of Sevens** (*as of May 1st 2019*)  
-with links to the Discogs page for each release
+The **Great Big Magic Box Of Sevens** (*as of July 12th 2019*)  
+with a link to the Discogs page for each release
 
 &nbsp;
 
@@ -30,7 +30,7 @@ with links to the Discogs page for each release
 |ABC|Poison Arrow|1982|[🔗](http://www.discogs.com/release/47921){:target="_blank"}|
 |Aaron Neville|Tell It Like It Is / Why Worry|1966|[🔗](http://www.discogs.com/release/1430960){:target="_blank"}|
 |Aaron Neville / Cyril Neville|Hercules / Gossip|2005|[🔗](http://www.discogs.com/release/580560){:target="_blank"}|
-|Ace (7)|How Long|1974|[🔗](http://www.discogs.com/release/800402){:target="_blank"}|
+|Ace|How Long|1974|[🔗](http://www.discogs.com/release/800402){:target="_blank"}|
 |Acker Bilk With The Leon Young String Chorale|Stranger On The Shore|1961|[🔗](http://www.discogs.com/release/759854){:target="_blank"}|
 |Act 1|Tom The Peeper|1974|[🔗](http://www.discogs.com/release/887668){:target="_blank"}|
 |Adam And The Ants|Stand & Deliver!|1981|[🔗](http://www.discogs.com/release/2338198){:target="_blank"}|
@@ -46,7 +46,7 @@ with links to the Discogs page for each release
 |African Music Machine|Tropical / A Girl In France|1973|[🔗](https://www.discogs.com//release/2920828){:target="_blank"}|
 |Age Of Chance|Kiss|1987|[🔗](http://www.discogs.com/release/3036927){:target="_blank"}|
 |Air Supply|All Out Of Love / Even The Nights Are Better||[🔗](http://www.discogs.com/release/2635572){:target="_blank"}|
-|Al Brown (4) + Skin, Flesh & Bones|Here I Am Baby, Come And Take Me|1974|[🔗](http://www.discogs.com/release/2069966){:target="_blank"}|
+|Al Brown + Skin, Flesh & Bones|Here I Am Baby, Come And Take Me|1974|[🔗](http://www.discogs.com/release/2069966){:target="_blank"}|
 |Al Green|I'm Still In Love With You / Love And Happiness|1995|[🔗](http://www.discogs.com/release/414464){:target="_blank"}|
 |Al Green|Here I Am (Come And Take Me)|1973|[🔗](http://www.discogs.com/release/4935409){:target="_blank"}|
 |Al Green|Livin' For You|1973|[🔗](http://www.discogs.com/release/1578989){:target="_blank"}|
@@ -56,6 +56,7 @@ with links to the Discogs page for each release
 |Al Green|Full Of Fire / Could I Be The One|1975|[🔗](http://www.discogs.com/release/1977671){:target="_blank"}|
 |Al Green|Tired Of Being Alone|1971|[🔗](http://www.discogs.com/release/1512543){:target="_blank"}|
 |Al Green|Let's Stay Together|1971|[🔗](http://www.discogs.com/release/465450){:target="_blank"}|
+|Al Lover|Dark Matter Discoth�que / Mark E. Moon|2019|[🔗](http://www.discogs.com/Al-Lover-Dark-Matter-Discoth�que-Mark-E-Moon/release/13797891){:target="_blank"}|
 |Alarm Clox|Protector / Restaurant|1980|[🔗](http://www.discogs.com/release/3142678){:target="_blank"}|
 |Alberto Y Lost Trios Paranoias|Heads Down No Nonsense Mindless Boogie|1978|[🔗](http://www.discogs.com/release/3092055){:target="_blank"}|
 |Alfreda Brockington / Elegant Shades|Spilt Milk|2015|[🔗](http://www.discogs.com/release/7799642){:target="_blank"}|
@@ -68,10 +69,10 @@ with links to the Discogs page for each release
 |Alternative TV|Life|1978|[🔗](http://www.discogs.com/release/484521){:target="_blank"}|
 |Alternative TV|How Much Longer / You Bastard|1978|[🔗](http://www.discogs.com/release/3268618){:target="_blank"}|
 |Alternative TV|Life After Life|1977|[🔗](http://www.discogs.com/release/473261){:target="_blank"}|
-|Althea & Donna / The Professionals (9)|Up Town Top Ranking / Calico Suit||[🔗](http://www.discogs.com/release/2013031){:target="_blank"}|
+|Althea & Donna / The Professionals|Up Town Top Ranking / Calico Suit||[🔗](http://www.discogs.com/release/2013031){:target="_blank"}|
 |Amanda Palmer|In Harm’s Way / Mother|2017|[🔗](http://www.discogs.com/release/11168616){:target="_blank"}|
 |Amen Corner|High In The Sky|1968|[🔗](http://www.discogs.com/release/1694319){:target="_blank"}|
-|America (2)|Ventura Highway|1972|[🔗](http://www.discogs.com/release/2666586){:target="_blank"}|
+|America|Ventura Highway|1972|[🔗](http://www.discogs.com/release/2666586){:target="_blank"}|
 |Amii Stewart|Knock On Wood|1979|[🔗](http://www.discogs.com/release/336306){:target="_blank"}|
 |Amii Stewart|Light My Fire/137 Disco Heaven|1979|[🔗](http://www.discogs.com/release/1351035){:target="_blank"}|
 |Andrea True Connection|More, More, More|1976|[🔗](http://www.discogs.com/release/224389){:target="_blank"}|
@@ -85,7 +86,7 @@ with links to the Discogs page for each release
 |Ann Peebles|Old Man With Young Ideas|1978|[🔗](http://www.discogs.com/release/1357415){:target="_blank"}|
 |Ann Peebles|I Can't Stand The Rain|1973|[🔗](http://www.discogs.com/release/1839776){:target="_blank"}|
 |Ann Peebles|Dr. Love Power / I Still Love You|1976|[🔗](http://www.discogs.com/release/1129043){:target="_blank"}|
-|Antoine (2)|la Loi de 1920 / Une Autre Autoroute|1966|[🔗](http://www.discogs.com/release/7004987){:target="_blank"}|
+|Antoine|la Loi de 1920 / Une Autre Autoroute|1966|[🔗](http://www.discogs.com/release/7004987){:target="_blank"}|
 |Archie Bell & The Drells|"There's Gonna Be A" Showdown|1968|[🔗](http://www.discogs.com/release/2907791){:target="_blank"}|
 |Archie Bell & The Drells|Here I Go Again|1972|[🔗](http://www.discogs.com/release/559395){:target="_blank"}|
 |Archie Bell & The Drells|The Soul City Walk|1976|[🔗](http://www.discogs.com/release/501572){:target="_blank"}|
@@ -149,6 +150,7 @@ with links to the Discogs page for each release
 |Billy Preston|Outa Space|1972|[🔗](http://www.discogs.com/release/2092283){:target="_blank"}|
 |Billy Preston|That's The Way God Planned It|1969|[🔗](http://www.discogs.com/release/3073351){:target="_blank"}|
 |Billy Preston|Billy's Bag|1969|[🔗](http://www.discogs.com/release/1753966){:target="_blank"}|
+|Billy Preston|Space Race|1973|[🔗](http://www.discogs.com/Billy-Preston-Space-Race/release/1529469){:target="_blank"}|
 |Billy Stewart|Summertime / To Love To Love|1966|[🔗](http://www.discogs.com/release/995232){:target="_blank"}|
 |Billy Swan|I Can Help|1974|[🔗](http://www.discogs.com/release/1284602){:target="_blank"}|
 |Bit 'A Sweet|Out Of Sight, Out Of Mind / Is It On - Is It Off|2018|[🔗](http://www.discogs.com/release/12135718){:target="_blank"}|
@@ -178,7 +180,7 @@ with links to the Discogs page for each release
 |Bow Wow Wow|Prince Of Darkness|1981|[🔗](http://www.discogs.com/release/577461){:target="_blank"}|
 |Bow Wow Wow|Go Wild In The Country|1982|[🔗](http://www.discogs.com/release/1000475){:target="_blank"}|
 |Bow Wow Wow|I Want Candy|1982|[🔗](http://www.discogs.com/release/418690){:target="_blank"}|
-|Boxer (2)|Hey Bulldog (Stereo) / Hey Bulldog (Mono)|1976|[🔗](http://www.discogs.com/release/5842531){:target="_blank"}|
+|Boxer|Hey Bulldog (Stereo) / Hey Bulldog (Mono)|1976|[🔗](http://www.discogs.com/release/5842531){:target="_blank"}|
 |Boys Town Gang|Can't Take My Eyes Off You|1982|[🔗](http://www.discogs.com/release/163208){:target="_blank"}|
 |Brain Washington|Bad Acid / L.S.D.|2012|[🔗](http://www.discogs.com/release/2927978){:target="_blank"}|
 |Brass Construction|Walkin' The Line|1983|[🔗](http://www.discogs.com/release/4055136){:target="_blank"}|
@@ -231,13 +233,14 @@ with links to the Discogs page for each release
 |Cerrone|Supernature|1978|[🔗](http://www.discogs.com/release/2049570){:target="_blank"}|
 |Chairmen Of The Board|You've Got Me Dangling On A String|1970|[🔗](http://www.discogs.com/release/1205283){:target="_blank"}|
 |Chairmen Of The Board|Everything's Tuesday|1971|[🔗](http://www.discogs.com/release/665298){:target="_blank"}|
+|Chairmen Of The Board|Finder's Keepers|1973|[🔗](http://www.discogs.com/Chairmen-Of-The-Board-Finders-Keepers/release/665946){:target="_blank"}|
 |Chaka Khan|I Feel For You|1984|[🔗](http://www.discogs.com/release/239028){:target="_blank"}|
 |Chakachas|Jungle Fever|1972|[🔗](http://www.discogs.com/release/5083423){:target="_blank"}|
 |Champ's Boys Orchestra|Tubular Bells|1976|[🔗](http://www.discogs.com/release/979500){:target="_blank"}|
 |Champion Doug Veitch|Jumping Into Love|1985|[🔗](http://www.discogs.com/release/6716719){:target="_blank"}|
 |Champion Doug Veitch & His Clydeside Rebels|Lumière Urban|1982|[🔗](http://www.discogs.com/release/2957766){:target="_blank"}|
 |Champion Doug Veitch And The Igbira Nation|Not The Heart|1984|[🔗](http://www.discogs.com/release/1989160){:target="_blank"}|
-|Charles "Organaire" Cameron, The Skatalites, The Pressure Tenants, Calypso Joe, Lord Dango & Yeyo Montana, Akasha (20)|Marley Tribute / One Heart (Traditional)|2017|[🔗](http://www.discogs.com/release/9703174){:target="_blank"}|
+|Charles "Organaire" Cameron, The Skatalites, The Pressure Tenants, Calypso Joe, Lord Dango & Yeyo Montana, Akasha|Marley Tribute / One Heart (Traditional)|2017|[🔗](http://www.discogs.com/release/9703174){:target="_blank"}|
 |Cher|Gypsys, Tramps & Thieves|1971|[🔗](http://www.discogs.com/release/541897){:target="_blank"}|
 |Cheryl Lynn|Got To Be Real|1979|[🔗](http://www.discogs.com/release/892032){:target="_blank"}|
 |Chic|Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)|1977|[🔗](http://www.discogs.com/release/219619){:target="_blank"}|
@@ -267,7 +270,7 @@ with links to the Discogs page for each release
 |Commodores|Nightshift|1985|[🔗](http://www.discogs.com/release/775607){:target="_blank"}|
 |Commodores|Machine Gun|1974|[🔗](http://www.discogs.com/release/417001){:target="_blank"}|
 |Commodores|I Feel Sanctified|1975|[🔗](http://www.discogs.com/release/2103043){:target="_blank"}|
-|Cortex (6)|L'Enfant Samba|2018|[🔗](http://www.discogs.com/release/11717489){:target="_blank"}|
+|Cortex|L'Enfant Samba|2018|[🔗](http://www.discogs.com/release/11717489){:target="_blank"}|
 |Count Five|Psychotic Reaction|2010|[🔗](http://www.discogs.com/release/10012227){:target="_blank"}|
 |Country Joe And The Fish|Country Joe and the Fish|1966|[🔗](http://www.discogs.com/release/8023096){:target="_blank"}|
 |Cowboy Junkies|Blue Moon Revisited (Song For Elvis)|1989|[🔗](http://www.discogs.com/release/632910){:target="_blank"}|
@@ -276,15 +279,17 @@ with links to the Discogs page for each release
 |Cozy Powell|Dance With The Devil|1973|[🔗](http://www.discogs.com/release/413987){:target="_blank"}|
 |Crash Test Dummies|Mmm Mmm Mmm Mmm|1993|[🔗](http://www.discogs.com/release/3199900){:target="_blank"}|
 |Crash Test Dummies|Afternoons & Coffeespoons|1994|[🔗](http://www.discogs.com/release/2442481){:target="_blank"}|
-|Cream (2)|Sunshine Of Your Love|1967|[🔗](http://www.discogs.com/release/5143697){:target="_blank"}|
+|Cream|Sunshine Of Your Love|1967|[🔗](http://www.discogs.com/release/5143697){:target="_blank"}|
 |Creedence Clearwater Revival|I Heard It Through The Grapevine|1975|[🔗](http://www.discogs.com/release/3972693){:target="_blank"}|
 |Creedence Clearwater Revival|Long As I Can See The Light|1970|[🔗](http://www.discogs.com/release/1645261){:target="_blank"}|
 |Creedence Clearwater Revival|Run Through The Jungle / Up Around The Bend|1970|[🔗](http://www.discogs.com/release/4690886){:target="_blank"}|
 |Crown Heights Affair|Dreaming A Dream|1975|[🔗](http://www.discogs.com/release/768256){:target="_blank"}|
+|Crown Heights Affair|Foxy Lady / Picture Show|1975|[🔗](http://www.discogs.com/Crown-Heights-Affair-Foxy-Lady-Picture-Show/release/9313871){:target="_blank"}|
 |Crown Heights Affair|Galaxy Of Love|1978|[🔗](http://www.discogs.com/release/1644307){:target="_blank"}|
 |Crystal Grass|Crystal World|1974|[🔗](http://www.discogs.com/release/623794){:target="_blank"}|
+|Crystal Grass|Taj Mahal / Lemme See Ya Gitcher Thing Off, Baby|1976|[🔗](http://www.discogs.com/Crystal-Grass-Taj-Mahal-Lemme-See-Ya-Gitcher-Thing-Off-Baby/release/3037632){:target="_blank"}|
 |Curved Air|Back Street Luv (Live)|1981|[🔗](http://www.discogs.com/release/2563132){:target="_blank"}|
-|Dan Solo (2)|You Make That Sound|2007|[🔗](http://www.discogs.com/release/4255071){:target="_blank"}|
+|Dan Solo|You Make That Sound|2007|[🔗](http://www.discogs.com/release/4255071){:target="_blank"}|
 |Dana Valery|You Don't Know Where Your Interest Lies|2013|[🔗](http://www.discogs.com/release/5137624){:target="_blank"}|
 |Darts|It's Raining|1978|[🔗](http://www.discogs.com/release/1038067){:target="_blank"}|
 |Daryl Hall & John Oates|She's Gone|1981|[🔗](http://www.discogs.com/release/5073928){:target="_blank"}|
@@ -303,7 +308,7 @@ with links to the Discogs page for each release
 |David Lee Roth|Just A Gigolo / I Ain't Got Nobody (Medley)|1985|[🔗](http://www.discogs.com/release/594972){:target="_blank"}|
 |David Seville|Witch Doctor|1958|[🔗](http://www.discogs.com/release/7865981){:target="_blank"}|
 |Davie Allan & The Arrows|Shape Of Things To Come|1998|[🔗](http://www.discogs.com/release/3795320){:target="_blank"}|
-|Dawn (5) Featuring Tony Orlando|Tie A Yellow Ribbon Round The Ole Oak Tree|1973|[🔗](http://www.discogs.com/release/5513177){:target="_blank"}|
+|Dawn Featuring Tony Orlando|Tie A Yellow Ribbon Round The Ole Oak Tree|1973|[🔗](http://www.discogs.com/release/5513177){:target="_blank"}|
 |Dawn Penn|You Don't Love Me (No No No)|1994|[🔗](http://www.discogs.com/release/579554){:target="_blank"}|
 |Dawn Penn / Tommy McCook & The Supersonics|Why Did You Lie? / Moody Ska||[🔗](http://www.discogs.com/release/7422028){:target="_blank"}|
 |Dead Kennedys|Too Drunk To Fuck|1981|[🔗](http://www.discogs.com/release/499637){:target="_blank"}|
@@ -337,8 +342,8 @@ with links to the Discogs page for each release
 |Dillinger|Bionic Dread|1976|[🔗](http://www.discogs.com/release/2299831){:target="_blank"}|
 |Dillinger|Cokane In My Brain|1977|[🔗](http://www.discogs.com/release/5330518){:target="_blank"}|
 |Dillinger|Melting Pot|1998|[🔗](http://www.discogs.com/release/2035888){:target="_blank"}|
-|Dion (3)|Born To Be With You|1976|[🔗](http://www.discogs.com/release/4446814){:target="_blank"}|
-|Dion (3)|The Wanderer|1961|[🔗](http://www.discogs.com/release/1620699){:target="_blank"}|
+|Dion|Born To Be With You|1976|[🔗](http://www.discogs.com/release/4446814){:target="_blank"}|
+|Dion|The Wanderer|1961|[🔗](http://www.discogs.com/release/1620699){:target="_blank"}|
 |Dobie Gray|Drift Away|1987|[🔗](http://www.discogs.com/release/2880864){:target="_blank"}|
 |Don Covay|It's Better To Have (And Don't Need)|1974|[🔗](http://www.discogs.com/release/890560){:target="_blank"}|
 |Donna Summer|Love To Love You Baby|1975|[🔗](http://www.discogs.com/release/5154625){:target="_blank"}|
@@ -349,7 +354,7 @@ with links to the Discogs page for each release
 |Dr. Feelgood|Roxette|1976|[🔗](http://www.discogs.com/release/2545709){:target="_blank"}|
 |Dr. Feelgood|Milk And Alcohol|1979|[🔗](http://www.discogs.com/release/1381301){:target="_blank"}|
 |Dr. Hook & The Medicine Show|Sylvia's Mother|1972|[🔗](http://www.discogs.com/release/3938604){:target="_blank"}|
-|Dr. No (16) & The Cuban Mafia / Sundance Kid (5)|007 Mambo / South American Getaway|2012|[🔗](http://www.discogs.com/release/3726748){:target="_blank"}|
+|Dr. No & The Cuban Mafia / Sundance Kid|007 Mambo / South American Getaway|2012|[🔗](http://www.discogs.com/release/3726748){:target="_blank"}|
 |Dread Zeppelin|Your Time Is Gonna Come|1990|[🔗](http://www.discogs.com/release/771731){:target="_blank"}|
 |Dread Zeppelin|Heartbreaker (At The End Of Lonely Street)|1990|[🔗](http://www.discogs.com/release/2900293){:target="_blank"}|
 |Droids|(Do You Have) The Force|1977|[🔗](http://www.discogs.com/release/80606){:target="_blank"}|
@@ -371,7 +376,7 @@ with links to the Discogs page for each release
 |Earth, Wind & Fire|September|1978|[🔗](http://www.discogs.com/release/299308){:target="_blank"}|
 |Earth, Wind & Fire|Star|1979|[🔗](http://www.discogs.com/release/1129991){:target="_blank"}|
 |Earth, Wind & Fire|In The Stone|1979|[🔗](http://www.discogs.com/release/1593642){:target="_blank"}|
-|East Of Eden (2)|Jig-A-Jig|1971|[🔗](http://www.discogs.com/release/475962){:target="_blank"}|
+|East Of Eden|Jig-A-Jig|1971|[🔗](http://www.discogs.com/release/475962){:target="_blank"}|
 |East Side Beat|Ride Like The Wind|1991|[🔗](http://www.discogs.com/release/213724){:target="_blank"}|
 |Eddie Bond|Slip, Slip, Slippin' In|2017|[🔗](http://www.discogs.com/release/10868457){:target="_blank"}|
 |Eddie Drennon & The B.B.S. Unlimited|Let's Do The Latin Hustle|1976|[🔗](http://www.discogs.com/release/5197904){:target="_blank"}|
@@ -382,7 +387,7 @@ with links to the Discogs page for each release
 |Edwin Starr|Stop Her On Sight (S.O.S.) / Headline News|1968|[🔗](http://www.discogs.com/release/1137291){:target="_blank"}|
 |Eek-A-Mouse|Wa-Do-Dem||[🔗](http://www.discogs.com/release/1099561){:target="_blank"}|
 |El Coco|Cocomotion|1977|[🔗](http://www.discogs.com/release/9071862){:target="_blank"}|
-|Elastica (2)|Connection|1994|[🔗](http://www.discogs.com/release/1854408){:target="_blank"}|
+|Elastica|Connection|1994|[🔗](http://www.discogs.com/release/1854408){:target="_blank"}|
 |Electrelane|Film Music|2000|[🔗](http://www.discogs.com/release/334140){:target="_blank"}|
 |Electrelane|Gabriel|2000|[🔗](http://www.discogs.com/release/1388357){:target="_blank"}|
 |Electrelane|Blue Straggler|2001|[🔗](http://www.discogs.com/release/1565556){:target="_blank"}|
@@ -412,7 +417,7 @@ with links to the Discogs page for each release
 |Eric "Monty" Morris, Drumbago All Stars|Humpty Dumpty|1961|[🔗](http://www.discogs.com/release/1254072){:target="_blank"}|
 |Ernest Ranglin|Surfin|1979|[🔗](http://www.discogs.com/release/5269565){:target="_blank"}|
 |Errol Dunkley|Sit Down And Cry|1980|[🔗](http://www.discogs.com/release/1177379){:target="_blank"}|
-|Eruption (4)|I Can't Stand The Rain|1978|[🔗](http://www.discogs.com/release/989829){:target="_blank"}|
+|Eruption|I Can't Stand The Rain|1978|[🔗](http://www.discogs.com/release/989829){:target="_blank"}|
 |Esther Phillips|What A Difference A Day Made|1975|[🔗](http://www.discogs.com/release/753165){:target="_blank"}|
 |Esther Phillips|What A Difference A Day Made|1975|[🔗](http://www.discogs.com/release/753165){:target="_blank"}|
 |Eumir Deodato|Also Sprach Zarathustra (2001)|1973|[🔗](http://www.discogs.com/release/778123){:target="_blank"}|
@@ -421,11 +426,11 @@ with links to the Discogs page for each release
 |Everly Brothers|Muskrat|1961|[🔗](http://www.discogs.com/release/2682818){:target="_blank"}|
 |Everly Brothers|The Price Of Love|1965|[🔗](http://www.discogs.com/release/475318){:target="_blank"}|
 |Evolution|Everybody Dance|1993|[🔗](http://www.discogs.com/release/209476){:target="_blank"}|
-|Exile (7)|Kiss You All Over|1978|[🔗](http://www.discogs.com/release/990474){:target="_blank"}|
-|Faces (3)|Stay With Me|1971|[🔗](http://www.discogs.com/release/2569089){:target="_blank"}|
-|Faces (3)|Cindy Incidentally|1973|[🔗](http://www.discogs.com/release/3903491){:target="_blank"}|
+|Exile|Kiss You All Over|1978|[🔗](http://www.discogs.com/release/990474){:target="_blank"}|
+|Faces|Stay With Me|1971|[🔗](http://www.discogs.com/release/2569089){:target="_blank"}|
+|Faces|Cindy Incidentally|1973|[🔗](http://www.discogs.com/release/3903491){:target="_blank"}|
 |Fairport Convention|Si Tu Dois Partir|1969|[🔗](http://www.discogs.com/release/2060048){:target="_blank"}|
-|Family (6)|In My Own Time|1971|[🔗](http://www.discogs.com/release/1734689){:target="_blank"}|
+|Family|In My Own Time|1971|[🔗](http://www.discogs.com/release/1734689){:target="_blank"}|
 |Faust|So Far / It's A Bit Of Pain|2010|[🔗](http://www.discogs.com/release/2317627){:target="_blank"}|
 |Female Hercules|Record Player E.P.|1994|[🔗](http://www.discogs.com/release/3371222){:target="_blank"}|
 |Fine Young Cannibals|I'm Not The Man I Used To Be|1989|[🔗](http://www.discogs.com/release/506644){:target="_blank"}|
@@ -462,7 +467,7 @@ with links to the Discogs page for each release
 |Gary Numan|We Are Glass|1980|[🔗](http://www.discogs.com/release/126870){:target="_blank"}|
 |Gary Numan|I Die: You Die|1980|[🔗](http://www.discogs.com/release/3386172){:target="_blank"}|
 |Gary's Gang|Keep On Dancin'|1978|[🔗](http://www.discogs.com/release/141038){:target="_blank"}|
-|Generation X (4)|King Rocker|1979|[🔗](http://www.discogs.com/release/1424020){:target="_blank"}|
+|Generation X|King Rocker|1979|[🔗](http://www.discogs.com/release/1424020){:target="_blank"}|
 |George Benson|Give Me The Night|1980|[🔗](http://www.discogs.com/release/4845332){:target="_blank"}|
 |George McCrae|Rock Your Baby|1974|[🔗](http://www.discogs.com/release/1643794){:target="_blank"}|
 |George McCrae|I Can't Leave You Alone|1974|[🔗](http://www.discogs.com/release/1270269){:target="_blank"}|
@@ -473,15 +478,15 @@ with links to the Discogs page for each release
 |Ginger Williams|In My Heart There's A Place / He's My Honey Boy||[🔗](http://www.discogs.com/release/4339958){:target="_blank"}|
 |Giorgio Moroder|Night Drive / The Apartment|1980|[🔗](http://www.discogs.com/release/7414746){:target="_blank"}|
 |Glenn Miller And His Orchestra|Moonlight Serenade|1976|[🔗](http://www.discogs.com/release/1154402){:target="_blank"}|
-|Goat (22)|It's Time For Fun|2015|[🔗](http://www.discogs.com/release/7348203){:target="_blank"}|
+|Goat|It's Time For Fun|2015|[🔗](http://www.discogs.com/release/7348203){:target="_blank"}|
 |Goblin = Goblin|サスペリア = Suspiria|1977|[🔗](http://www.discogs.com/release/3017736){:target="_blank"}|
 |Godiego|Monkey Magic|1978|[🔗](http://www.discogs.com/release/1502679){:target="_blank"}|
 |Golden Earring|Radar Love|1973|[🔗](http://www.discogs.com/release/1407052){:target="_blank"}|
 |Grace Jones|Private Life|1980|[🔗](http://www.discogs.com/release/27790){:target="_blank"}|
 |Graham Parker And The Rumour|Hold Back The Night / (Let Me Get) Sweet On You|1977|[🔗](http://www.discogs.com/release/4908635){:target="_blank"}|
 |Greg Lake|I Believe In Father Christmas||[🔗](http://www.discogs.com/release/3766045){:target="_blank"}|
-|Greyhound (4)|Moon River|1971|[🔗](http://www.discogs.com/release/536495){:target="_blank"}|
-|Greyhound (4)|I Am What I Am|1972|[🔗](http://www.discogs.com/release/668709){:target="_blank"}|
+|Greyhound|Moon River|1971|[🔗](http://www.discogs.com/release/536495){:target="_blank"}|
+|Greyhound|I Am What I Am|1972|[🔗](http://www.discogs.com/release/668709){:target="_blank"}|
 |Grinderman|(I Don't Need You To) Set Me Free|2007|[🔗](http://www.discogs.com/release/988026){:target="_blank"}|
 |Gypsophilia|Horska|2013|[🔗](http://www.discogs.com/release/4669426){:target="_blank"}|
 |Hackney Colliery Band|Africa / Right Foot Up|2011|[🔗](http://www.discogs.com/release/2733798){:target="_blank"}|
@@ -554,6 +559,7 @@ with links to the Discogs page for each release
 |Jeff Beck Group|I've Been Drinking|1973|[🔗](http://www.discogs.com/release/1373376){:target="_blank"}|
 |Jefferson Airplane|White Rabbit / Somebody To Love||[🔗](http://www.discogs.com/release/601774){:target="_blank"}|
 |Jermaine Jackson|Let's Get Serious|1980|[🔗](http://www.discogs.com/release/1148733){:target="_blank"}|
+|Jerry Lee Lewis|Breathless|1958|[🔗](http://www.discogs.com/Jerry-Lee-Lewis-And-His-Pumping-Piano-Breathless/release/1018430){:target="_blank"}|
 |Jet Harris|Main Title Theme (From The Man With The Golden Arm)|1962|[🔗](http://www.discogs.com/release/763476){:target="_blank"}|
 |Jethro Tull|Living In The Past|1969|[🔗](http://www.discogs.com/release/3157866){:target="_blank"}|
 |Jim Steinman|Rock And Roll Dreams Come Through|1981|[🔗](http://www.discogs.com/release/4393323){:target="_blank"}|
@@ -591,7 +597,7 @@ with links to the Discogs page for each release
 |John Otway And Wild Willy Barrett|Really Free|1977|[🔗](http://www.discogs.com/release/668945){:target="_blank"}|
 |John Stammers|Waiting Around|2017|[🔗](http://www.discogs.com/release/10472501){:target="_blank"}|
 |John Travolta And Olivia Newton-John|You're The One That I Want|1978|[🔗](http://www.discogs.com/release/6669690){:target="_blank"}|
-|Johnnie Allan / Pete Fowler (2)|Promised Land / One Heart, One Song|1978|[🔗](http://www.discogs.com/release/2459243){:target="_blank"}|
+|Johnnie Allan / Pete Fowler|Promised Land / One Heart, One Song|1978|[🔗](http://www.discogs.com/release/2459243){:target="_blank"}|
 |Johnny And The Hurricanes|Down Yonder|1960|[🔗](http://www.discogs.com/release/493797){:target="_blank"}|
 |Johnny Cash|The Man Comes Around / Personal Jesus|2015|[🔗](http://www.discogs.com/release/6874127){:target="_blank"}|
 |Johnny Cash & The Tennessee Two|Get Rhythm / I Walk The Line|2013|[🔗](http://www.discogs.com/release/4577890){:target="_blank"}|
@@ -610,11 +616,12 @@ with links to the Discogs page for each release
 |Joyce Bond|Do The Teasy|1967|[🔗](http://www.discogs.com/release/2139432){:target="_blank"}|
 |Judie Tzuke|For You|1978|[🔗](http://www.discogs.com/release/3927889){:target="_blank"}|
 |Judy Clay & William Bell|Private Number|1968|[🔗](http://www.discogs.com/release/2769217){:target="_blank"}|
+|Juggy Murray|Built For Speed|1972|[🔗](http://www.discogs.com/Juggy-Murray-Built-For-Speed/release/2143241){:target="_blank"}|
 |Juggy Murray Jones|Inside America|1976|[🔗](http://www.discogs.com/release/562366){:target="_blank"}|
 |Julee Cruise|Falling|1990|[🔗](http://www.discogs.com/release/3691825){:target="_blank"}|
 |Julian Cope|World Shut Your Mouth|1992|[🔗](http://www.discogs.com/release/3066587){:target="_blank"}|
 |Julie Covington|Don't Cry For Me Argentina|1976|[🔗](http://www.discogs.com/release/748455){:target="_blank"}|
-|Junior (2)|Mama Used To Say (American Remix)|1981|[🔗](http://www.discogs.com/release/1582906){:target="_blank"}|
+|Junior|Mama Used To Say (American Remix)|1981|[🔗](http://www.discogs.com/release/1582906){:target="_blank"}|
 |Junior Walker & The All Stars|Walk In The Night|1972|[🔗](http://www.discogs.com/release/1358469){:target="_blank"}|
 |Just Brothers|Sliced Tomatoes||[🔗](http://www.discogs.com/release/4549965){:target="_blank"}|
 |KC & The Sunshine Band|Give It Up|1982|[🔗](http://www.discogs.com/release/1499101){:target="_blank"}|
@@ -633,7 +640,7 @@ with links to the Discogs page for each release
 |King Earl Boogie Band|Plastic Jesus|1972|[🔗](http://www.discogs.com/release/6322716){:target="_blank"}|
 |King Hammond / Bim Skala Bim|Mad Not Cancer||[🔗](http://www.discogs.com/release/6343206){:target="_blank"}|
 |King Trigger|River|1982|[🔗](http://www.discogs.com/release/601998){:target="_blank"}|
-|Klark Kent (3)|Don't Care|1978|[🔗](http://www.discogs.com/release/472116){:target="_blank"}|
+|Klark Kent|Don't Care|1978|[🔗](http://www.discogs.com/release/472116){:target="_blank"}|
 |Kontakte / Thelightshines|Motorik / The Space Between Souls|2008|[🔗](http://www.discogs.com/release/1471863){:target="_blank"}|
 |Kool & The Gang|Ooh La La La (Let's Go Dancin')|1982|[🔗](http://www.discogs.com/release/764702){:target="_blank"}|
 |Kool & The Gang|Good Times / The Frog|1972|[🔗](http://www.discogs.com/release/2125788){:target="_blank"}|
@@ -660,7 +667,7 @@ with links to the Discogs page for each release
 |Lee Dorsey|Ride Your Pony / Get Out Of My Life, Woman|1969|[🔗](http://www.discogs.com/release/2309007){:target="_blank"}|
 |Len Barry|1-2-3|1965|[🔗](http://www.discogs.com/release/468534){:target="_blank"}|
 |Lene Lovich|Lucky Number|1978|[🔗](http://www.discogs.com/release/141196){:target="_blank"}|
-|Les Mutants (2)|Moi Je Tutoie Les Anges|1963|[🔗](http://www.discogs.com/release/6511792){:target="_blank"}|
+|Les Mutants|Moi Je Tutoie Les Anges|1963|[🔗](http://www.discogs.com/release/6511792){:target="_blank"}|
 |Les Paul & Mary Ford|How High The Moon|1983|[🔗](http://www.discogs.com/release/3401769){:target="_blank"}|
 |Les Paul & Mary Ford|Jura / It's Been A Long Long Time|1961|[🔗](http://www.discogs.com/release/1671269){:target="_blank"}|
 |Les Troubadours Du Roi Baudouin|Missa Luba - Sanctus|1976|[🔗](http://www.discogs.com/release/2386263){:target="_blank"}|
@@ -679,7 +686,7 @@ with links to the Discogs page for each release
 |Lloyd Charmers|Sweet Harmony|1974|[🔗](http://www.discogs.com/release/1210992){:target="_blank"}|
 |Long Boards|Dragger Joe|2015|[🔗](http://www.discogs.com/release/7318769){:target="_blank"}|
 |Lonnie Smith|Funk Reaction|1977|[🔗](http://www.discogs.com/release/1660960){:target="_blank"}|
-|Lorna Bennett / Scotty (2) & Lorna Bennett|Breakfast In Bed / Skank In Bed|1972|[🔗](http://www.discogs.com/release/3241603){:target="_blank"}|
+|Lorna Bennett / Scotty & Lorna Bennett|Breakfast In Bed / Skank In Bed|1972|[🔗](http://www.discogs.com/release/3241603){:target="_blank"}|
 |Los Africanos / Machito|It's Your Thing / Knock On Wood|2016|[🔗](http://www.discogs.com/release/8410847){:target="_blank"}|
 |Los Mirlos|Lamento En La Selva / El Vaiven|1977|[🔗](http://www.discogs.com/release/4621408){:target="_blank"}|
 |Los Pataconas|Spider-Man|2006|[🔗](http://www.discogs.com/release/1227775){:target="_blank"}|
@@ -723,13 +730,13 @@ with links to the Discogs page for each release
 |Marvin Gaye & Jay "Dusty" Smith / Smokey Robinson & Slimmy Taylor|Sexual Healing / Going To A Gogo|2008|[🔗](http://www.discogs.com/release/1499779){:target="_blank"}|
 |Marvin Gaye & Tammi Terrell|The Onion Song|1969|[🔗](http://www.discogs.com/release/785859){:target="_blank"}|
 |Marvin Hamlisch|Bond '77 / The James Bond Theme|1977|[🔗](http://www.discogs.com/release/4589226){:target="_blank"}|
-|Matchbox (3)|Rockabilly Rebel|1979|[🔗](http://www.discogs.com/release/1890142){:target="_blank"}|
+|Matchbox|Rockabilly Rebel|1979|[🔗](http://www.discogs.com/release/1890142){:target="_blank"}|
 |Matt Bianco|Get Out Of Your Lazy Bed|1983|[🔗](http://www.discogs.com/release/1680972){:target="_blank"}|
 |Max Romeo|Wet Dream|1968|[🔗](http://www.discogs.com/release/1504353){:target="_blank"}|
 |Maxine Nightingale|Right Back Where We Started From|1975|[🔗](http://www.discogs.com/release/1433688){:target="_blank"}|
 |McGuinness Flint|Malt And Barley Blues|1971|[🔗](http://www.discogs.com/release/3175787){:target="_blank"}|
-|Medicine Head (2)|One & One Is One|1973|[🔗](http://www.discogs.com/release/1456010){:target="_blank"}|
-|Medicine Head (2)|Slip And Slide|1974|[🔗](http://www.discogs.com/release/1469640){:target="_blank"}|
+|Medicine Head|One & One Is One|1973|[🔗](http://www.discogs.com/release/1456010){:target="_blank"}|
+|Medicine Head|Slip And Slide|1974|[🔗](http://www.discogs.com/release/1469640){:target="_blank"}|
 |Melba Moore|Pick Me Up, I'll Dance|1979|[🔗](http://www.discogs.com/release/1498983){:target="_blank"}|
 |Meri Wilson|Telephone Man|1977|[🔗](http://www.discogs.com/release/4478343){:target="_blank"}|
 |Meridian Brothers|Escuchen El Grito|2012|[🔗](http://www.discogs.com/release/3690698){:target="_blank"}|
@@ -763,9 +770,10 @@ with links to the Discogs page for each release
 |Muse|Knights Of Cydonia|2006|[🔗](http://www.discogs.com/release/847190){:target="_blank"}|
 |Musique|In The Bush|1978|[🔗](http://www.discogs.com/release/329017){:target="_blank"}|
 |Nash The Slash|19th Nervous Breakdown|1981|[🔗](http://www.discogs.com/release/186200){:target="_blank"}|
-|Nazareth (2)|This Flight Tonight|1973|[🔗](http://www.discogs.com/release/1336123){:target="_blank"}|
+|Nazareth|This Flight Tonight|1973|[🔗](http://www.discogs.com/release/1336123){:target="_blank"}|
 |Neil Diamond|Cracklin' Rosie|1970|[🔗](http://www.discogs.com/release/1663130){:target="_blank"}|
 |Nena|99 Red Balloons|1983|[🔗](http://www.discogs.com/release/259143){:target="_blank"}|
+|Nev Cottee|Roses|2019|[🔗](http://www.discogs.com/Nev-Cottee-Roses/release/13783078){:target="_blank"}|
 |Nick Lowe|I Love The Sound Of Breaking Glass|1978|[🔗](http://www.discogs.com/release/477364){:target="_blank"}|
 |Nick Lowe|Cracking Up|1979|[🔗](http://www.discogs.com/release/2008766){:target="_blank"}|
 |Nicola Conte|Arabesque|1999|[🔗](http://www.discogs.com/release/9576417){:target="_blank"}|
@@ -775,9 +783,9 @@ with links to the Discogs page for each release
 |Nora Dean / Tommy McCook & The Supersonics|Barb Wire||[🔗](http://www.discogs.com/release/4370365){:target="_blank"}|
 |Norman Greenbaum|Spirit In The Sky||[🔗](http://www.discogs.com/release/2992600){:target="_blank"}|
 |Nubia Band|The Time Is Right|2017|[🔗](http://www.discogs.com/release/10500846){:target="_blank"}|
-|Odyssey (2)|Use It Up And Wear It Out|1980|[🔗](http://www.discogs.com/release/5203638){:target="_blank"}|
-|Odyssey (2)|Inside Out|1982|[🔗](http://www.discogs.com/release/296054){:target="_blank"}|
-|Odyssey (2)|Going Back To My Roots|1981|[🔗](http://www.discogs.com/release/296190){:target="_blank"}|
+|Odyssey|Use It Up And Wear It Out|1980|[🔗](http://www.discogs.com/release/5203638){:target="_blank"}|
+|Odyssey|Inside Out|1982|[🔗](http://www.discogs.com/release/296054){:target="_blank"}|
+|Odyssey|Going Back To My Roots|1981|[🔗](http://www.discogs.com/release/296190){:target="_blank"}|
 |Ofra Haza|Im Nin'Alu|1988|[🔗](http://www.discogs.com/release/1445980){:target="_blank"}|
 |Ohio Players|Fire|1974|[🔗](http://www.discogs.com/release/1881498){:target="_blank"}|
 |Ohio Players|Love Rollercoaster|1975|[🔗](http://www.discogs.com/release/1487319){:target="_blank"}|
@@ -788,7 +796,7 @@ with links to the Discogs page for each release
 |Oliver Sain|She's A Disco Queen|1975|[🔗](http://www.discogs.com/release/1502441){:target="_blank"}|
 |Olivia Newton-John|If Not For You / The Biggest Clown|1971|[🔗](http://www.discogs.com/release/738741){:target="_blank"}|
 |On The Spot Trio|Suction|2012|[🔗](http://www.discogs.com/release/3713012){:target="_blank"}|
-|Orange Juice (3)|Rip It Up|1983|[🔗](http://www.discogs.com/release/385624){:target="_blank"}|
+|Orange Juice|Rip It Up|1983|[🔗](http://www.discogs.com/release/385624){:target="_blank"}|
 |Orchestral Manoeuvres In The Dark|Messages|1980|[🔗](http://www.discogs.com/release/186220){:target="_blank"}|
 |Orchestral Manoeuvres In The Dark|Electricity|1979|[🔗](http://www.discogs.com/release/97905){:target="_blank"}|
 |Orchestral Manoeuvres In The Dark|Enola Gay|1980|[🔗](http://www.discogs.com/release/99647){:target="_blank"}|
@@ -801,14 +809,14 @@ with links to the Discogs page for each release
 |Parliament|Tear The Roof Off The Sucker (Give Up The Funk)|1976|[🔗](http://www.discogs.com/release/3927907){:target="_blank"}|
 |Patti Smith|Gloria|1977|[🔗](http://www.discogs.com/release/3328200){:target="_blank"}|
 |Pattie Brooks|After Dark / Heartbreak In Disguise|1978|[🔗](http://www.discogs.com/release/3525072){:target="_blank"}|
-|Paul Davidson / The Organization (7)|Midnight Rider|1975|[🔗](http://www.discogs.com/release/1271102){:target="_blank"}|
+|Paul Davidson / The Organization|Midnight Rider|1975|[🔗](http://www.discogs.com/release/1271102){:target="_blank"}|
 |Paul Mauriat And His Orchestra|Black Is Black|1973|[🔗](http://www.discogs.com/release/2641573){:target="_blank"}|
 |Paul McCartney|Waterfalls|1980|[🔗](http://www.discogs.com/release/1050753){:target="_blank"}|
 |Paul Robeson|Best Loved Songs||[🔗](http://www.discogs.com/release/8506418){:target="_blank"}|
 |Paul Simon|Slip Slidin' Away|1977|[🔗](http://www.discogs.com/release/1560052){:target="_blank"}|
 |Paul Young|Come Back And Stay (Single Remix Version)|1983|[🔗](http://www.discogs.com/release/902709){:target="_blank"}|
 |Peggy Lee|I've Got You Under My Skin / My Heart Belongs To Daddy||[🔗](http://www.discogs.com/release/3927407){:target="_blank"}|
-|Penetration (2)|Don't Dictate|1977|[🔗](http://www.discogs.com/release/865756){:target="_blank"}|
+|Penetration|Don't Dictate|1977|[🔗](http://www.discogs.com/release/865756){:target="_blank"}|
 |Penguin Cafe Orchestra|Music For A Found Harmonium|1987|[🔗](http://www.discogs.com/release/841181){:target="_blank"}|
 |Pentangle|Light Flight (Theme From "Take Three Girls")|1969|[🔗](http://www.discogs.com/release/3912408){:target="_blank"}|
 |People's Choice|Do It Any Way You Wanna / The Big Hurt|1975|[🔗](http://www.discogs.com/release/1733291){:target="_blank"}|
@@ -841,7 +849,7 @@ with links to the Discogs page for each release
 |Powersolo|Boom Babba Do Ba Dabba|2015|[🔗](http://www.discogs.com/release/7110886){:target="_blank"}|
 |Prefab Sprout|Faron Young (Edit)|1985|[🔗](http://www.discogs.com/release/1349714){:target="_blank"}|
 |Prefab Sprout|The King Of Rock 'N' Roll|1988|[🔗](http://www.discogs.com/release/396582){:target="_blank"}|
-|Prelude (3)|After The Goldrush|1974|[🔗](http://www.discogs.com/release/966459){:target="_blank"}|
+|Prelude|After The Goldrush|1974|[🔗](http://www.discogs.com/release/966459){:target="_blank"}|
 |Prince|I Wish U Heaven|1988|[🔗](http://www.discogs.com/release/1985764){:target="_blank"}|
 |Prince And The Revolution|Girls & Boys|1986|[🔗](http://www.discogs.com/release/904063){:target="_blank"}|
 |Prince And The Revolution|I Would Die 4 U|1984|[🔗](http://www.discogs.com/release/1522520){:target="_blank"}|
@@ -875,11 +883,11 @@ with links to the Discogs page for each release
 |Redbone|Come And Get Your Love|1973|[🔗](http://www.discogs.com/release/1155599){:target="_blank"}|
 |Redbone|The Witch Queen Of New Orleans|1971|[🔗](http://www.discogs.com/release/443661){:target="_blank"}|
 |Redbone|The Witch Queen Of New Orleans|1971|[🔗](http://www.discogs.com/release/5646390){:target="_blank"}|
-|Retriever (2)|Murder / Lion|2010|[🔗](http://www.discogs.com/release/3610524){:target="_blank"}|
+|Retriever|Murder / Lion|2010|[🔗](http://www.discogs.com/release/3610524){:target="_blank"}|
 |Roachford|Cuddly Toy|1988|[🔗](http://www.discogs.com/release/1759297){:target="_blank"}|
 |Roachford|Family Man|1989|[🔗](http://www.discogs.com/release/1749264){:target="_blank"}|
 |Robert Fripp|Under Heavy Manners|1980|[🔗](http://www.discogs.com/release/4076533){:target="_blank"}|
-|Robert Gordon (2) With Link Wray|Fire|1978|[🔗](http://www.discogs.com/release/2733854){:target="_blank"}|
+|Robert Gordon With Link Wray|Fire|1978|[🔗](http://www.discogs.com/release/2733854){:target="_blank"}|
 |Robert John|The Lion Sleeps Tonight / Janet|1971|[🔗](http://www.discogs.com/release/1404143){:target="_blank"}|
 |Robert Palmer|I Didn't Mean To Turn You On|1985|[🔗](http://www.discogs.com/release/1373999){:target="_blank"}|
 |Robert Palmer|Every Kinda People|1978|[🔗](http://www.discogs.com/release/2133942){:target="_blank"}|
@@ -893,7 +901,7 @@ with links to the Discogs page for each release
 |Robert Wyatt|Yesterday Man|1977|[🔗](http://www.discogs.com/release/5339863){:target="_blank"}|
 |Robert Wyatt|I'm A Believer|1974|[🔗](http://www.discogs.com/release/410930){:target="_blank"}|
 |Robert Wyatt / Disharhi|Grass / Trade Union|1981|[🔗](http://www.discogs.com/release/547611){:target="_blank"}|
-|Robot (2)|Machine Dance / Robot Discomedy (Medley)|1978|[🔗](http://www.discogs.com/release/819314){:target="_blank"}|
+|Robot|Machine Dance / Robot Discomedy (Medley)|1978|[🔗](http://www.discogs.com/release/819314){:target="_blank"}|
 |Rock Goddess|I Didn't Know I Loved You (Till I Saw You Rock And Roll)|1984|[🔗](http://www.discogs.com/release/2783935){:target="_blank"}|
 |Rocky Sharpe & The Replays|The Martian Hop|1980|[🔗](http://www.discogs.com/release/1885266){:target="_blank"}|
 |Rodger Collins|She's Looking Good|1976|[🔗](http://www.discogs.com/release/3336973){:target="_blank"}|
@@ -903,7 +911,7 @@ with links to the Discogs page for each release
 |Roogalator|Zero Hero|1978|[🔗](http://www.discogs.com/release/2268720){:target="_blank"}|
 |Rose Royce|Is It Love You're After|1979|[🔗](http://www.discogs.com/release/337276){:target="_blank"}|
 |Rose Royce|Is It Love You're After|1979|[🔗](http://www.discogs.com/release/1295833){:target="_blank"}|
-|Rosetta Stone (2)|Sunshine Of Your Love|1977|[🔗](http://www.discogs.com/release/1818004){:target="_blank"}|
+|Rosetta Stone|Sunshine Of Your Love|1977|[🔗](http://www.discogs.com/release/1818004){:target="_blank"}|
 |Roxy Music|The Thrill Of It All|1974|[🔗](http://www.discogs.com/release/1618135){:target="_blank"}|
 |Roxy Music|Virginia Plain|1972|[🔗](http://www.discogs.com/release/476768){:target="_blank"}|
 |Roxy Music|Pyjamarama|1973|[🔗](http://www.discogs.com/release/477471){:target="_blank"}|
@@ -944,8 +952,8 @@ with links to the Discogs page for each release
 |Sheila Hylton|The Bed's Too Big Without You|1980|[🔗](http://www.discogs.com/release/2427029){:target="_blank"}|
 |Shirley & Company|Shame, Shame, Shame|1975|[🔗](http://www.discogs.com/release/970373){:target="_blank"}|
 |Shirley Bassey|(Where Do I Begin) Love Story|1971|[🔗](http://www.discogs.com/release/9871023){:target="_blank"}|
-|Shock (2)|Angel Face|1980|[🔗](http://www.discogs.com/release/39906){:target="_blank"}|
-|Sidney Barnes & Speedometer (2)|Best Thing (That Happened To You) / If I Could Only Be Sure|2013|[🔗](http://www.discogs.com/release/4966300){:target="_blank"}|
+|Shock|Angel Face|1980|[🔗](http://www.discogs.com/release/39906){:target="_blank"}|
+|Sidney Barnes & Speedometer|Best Thing (That Happened To You) / If I Could Only Be Sure|2013|[🔗](http://www.discogs.com/release/4966300){:target="_blank"}|
 |Silicon Teens|Memphis Tennessee|1979|[🔗](http://www.discogs.com/release/3302161){:target="_blank"}|
 |Silver Convention|Get Up And Boogie|1976|[🔗](http://www.discogs.com/release/441718){:target="_blank"}|
 |Simon & Garfunkel|The Boxer|1969|[🔗](http://www.discogs.com/release/851205){:target="_blank"}|
@@ -964,18 +972,19 @@ with links to the Discogs page for each release
 |Siouxsie & The Banshees|Dear Prudence|1983|[🔗](http://www.discogs.com/release/472853){:target="_blank"}|
 |Siouxsie & The Banshees|This Wheel's On Fire|1987|[🔗](http://www.discogs.com/release/437935){:target="_blank"}|
 |Sir Douglas Quintet|She's About A Mover|1965|[🔗](http://www.discogs.com/release/1439585){:target="_blank"}|
+|Sir Douglas Quintet|Dynamite Woman|1969|[🔗](http://www.discogs.com/Sir-Douglas-Quintet-Dynamite-Woman/release/4465892){:target="_blank"}|
 |Sister Nancy|Bam - Bam||[🔗](http://www.discogs.com/release/1879681){:target="_blank"}|
 |Sivuca|Ain't No Sunshine|1984|[🔗](http://www.discogs.com/release/1248319){:target="_blank"}|
 |Skids|Into The Valley|1979|[🔗](http://www.discogs.com/release/354917){:target="_blank"}|
 |Skids|Working For The Yankee Dollar|1979|[🔗](http://www.discogs.com/release/887179){:target="_blank"}|
 |Skin Williams And His Dominoes / The Soulfadelics|Skins Funk / The Big Chase|2014|[🔗](http://www.discogs.com/release/934328){:target="_blank"}|
-|Sky (4)|Toccata / Vivaldi|1980|[🔗](http://www.discogs.com/release/476486){:target="_blank"}|
+|Sky|Toccata / Vivaldi|1980|[🔗](http://www.discogs.com/release/476486){:target="_blank"}|
 |Slade|Cum On Feel The Noize|1973|[🔗](http://www.discogs.com/release/729382){:target="_blank"}|
 |Slim Whitman|Happy Anniversary|1974|[🔗](http://www.discogs.com/release/1890279){:target="_blank"}|
 |Sly & Robbie|Boops (Here To Go)|1987|[🔗](http://www.discogs.com/release/246283){:target="_blank"}|
 |Sly & The Family Stone|Family Affair|1973|[🔗](http://www.discogs.com/release/1820089){:target="_blank"}|
 |Sly & The Family Stone|If You Want Me To Stay|1973|[🔗](http://www.discogs.com/release/1821646){:target="_blank"}|
-|Smack (9)|Edward Fox|1980|[🔗](http://www.discogs.com/release/1273651){:target="_blank"}|
+|Smack|Edward Fox|1980|[🔗](http://www.discogs.com/release/1273651){:target="_blank"}|
 |Small Faces|Hey Girl|1966|[🔗](http://www.discogs.com/release/2276482){:target="_blank"}|
 |Small Faces|All Or Nothing|1966|[🔗](http://www.discogs.com/release/6580031){:target="_blank"}|
 |Small Faces|Itchycoo Park|1974|[🔗](http://www.discogs.com/release/2327757){:target="_blank"}|
@@ -990,7 +999,7 @@ with links to the Discogs page for each release
 |Space|Magic Fly|1977|[🔗](http://www.discogs.com/release/3867090){:target="_blank"}|
 |Space|On The Air|1979|[🔗](http://www.discogs.com/release/668046){:target="_blank"}|
 |Space|Save Your Love For Me|1978|[🔗](http://www.discogs.com/release/927442){:target="_blank"}|
-|Space Art (2)|Onyx|1977|[🔗](http://www.discogs.com/release/1284455){:target="_blank"}|
+|Space Art|Onyx|1977|[🔗](http://www.discogs.com/release/1284455){:target="_blank"}|
 |Sparks|This Town Ain't Big Enough For Both Of Us|1974|[🔗](http://www.discogs.com/release/3221473){:target="_blank"}|
 |Sparks|Amateur Hour|1974|[🔗](http://www.discogs.com/release/1799069){:target="_blank"}|
 |Sparks|Beat The Clock|1979|[🔗](http://www.discogs.com/release/411562){:target="_blank"}|
@@ -1000,12 +1009,13 @@ with links to the Discogs page for each release
 |Spinners|I'll Be Around|1982|[🔗](http://www.discogs.com/release/2371499){:target="_blank"}|
 |Splodgenessabounds|Simon Templer|1980|[🔗](http://www.discogs.com/release/464654){:target="_blank"}|
 |Splodgenessabounds|Two Little Boys|1980|[🔗](http://www.discogs.com/release/845134){:target="_blank"}|
-|Spontaneous Combustion (2)|Sabre Dance|1973|[🔗](http://www.discogs.com/release/8996124){:target="_blank"}|
+|Spontaneous Combustion|Sabre Dance|1973|[🔗](http://www.discogs.com/release/8996124){:target="_blank"}|
 |Sputnik-1|50.000 Lightyears|2012|[🔗](http://www.discogs.com/release/3990894){:target="_blank"}|
-|Squeeze (2)|Cool For Cats|1979|[🔗](http://www.discogs.com/release/624250){:target="_blank"}|
-|Squeeze (2)|Slap & Tickle|1979|[🔗](http://www.discogs.com/release/2217799){:target="_blank"}|
-|Squeeze (2)|Is That Love|1981|[🔗](http://www.discogs.com/release/2495731){:target="_blank"}|
+|Squeeze|Cool For Cats|1979|[🔗](http://www.discogs.com/release/624250){:target="_blank"}|
+|Squeeze|Slap & Tickle|1979|[🔗](http://www.discogs.com/release/2217799){:target="_blank"}|
+|Squeeze|Is That Love|1981|[🔗](http://www.discogs.com/release/2495731){:target="_blank"}|
 |Stan Getz|Jazz Theme From Dr. Kildare|1962|[🔗](http://www.discogs.com/release/767307){:target="_blank"}|
+|Stargard|Theme Song From "Which Way Is Up"|1977|[🔗](http://www.discogs.com/Stargard-Theme-Song-From-Which-Way-Is-Up/release/1881505){:target="_blank"}|
 |Status Quo|Gerdundula|1973|[🔗](http://www.discogs.com/release/2269011){:target="_blank"}|
 |Status Quo|Paper Plane|1972|[🔗](http://www.discogs.com/release/1821097){:target="_blank"}|
 |Status Quo|Caroline|1973|[🔗](http://www.discogs.com/release/563534){:target="_blank"}|
@@ -1050,7 +1060,7 @@ with links to the Discogs page for each release
 |T. Rex|Metal Guru|1972|[🔗](http://www.discogs.com/release/475934){:target="_blank"}|
 |T. Rex|Children Of The Revolution|1972|[🔗](http://www.discogs.com/release/477507){:target="_blank"}|
 |T.P.S. (The Preservation Society)|UFO / Space: 1999|2014|[🔗](http://www.discogs.com/release/5913802){:target="_blank"}|
-|TV21 (3)|To Protect And Surf.....|1998|[🔗](http://www.discogs.com/release/1896183){:target="_blank"}|
+|TV21|To Protect And Surf.....|1998|[🔗](http://www.discogs.com/release/1896183){:target="_blank"}|
 |Talking Heads|Love Goes To Building On Fire|1977|[🔗](http://www.discogs.com/release/556307){:target="_blank"}|
 |Talking Heads|Psycho Killer|1977|[🔗](http://www.discogs.com/release/2339771){:target="_blank"}|
 |Talking Heads|Pulled Up|1977|[🔗](http://www.discogs.com/release/1836559){:target="_blank"}|
@@ -1093,10 +1103,10 @@ with links to the Discogs page for each release
 |The Beach Boys|Barbara Ann|1972|[🔗](http://www.discogs.com/release/3927548){:target="_blank"}|
 |The Beach Boys|Sail On Sailor|1975|[🔗](http://www.discogs.com/release/2389865){:target="_blank"}|
 |The Beach Boys|I Just Wasn't Made For These Times (Stereo Mix) / Wouldn't It Be Nice (Vocals Only) b/w Here Today (Stereo Backing Track)|1996|[🔗](http://www.discogs.com/release/1201562){:target="_blank"}|
-|The Beat (2)|Can't Get Used To Losing You (1983 Remix Version)|1983|[🔗](http://www.discogs.com/release/396598){:target="_blank"}|
-|The Beat (2)|Too Nice To Talk To|1980|[🔗](http://www.discogs.com/release/416933){:target="_blank"}|
-|The Beat (2)|Doors Of Your Heart|1981|[🔗](http://www.discogs.com/release/816628){:target="_blank"}|
-|The Beat (2)|Tears Of A Clown / Ranking Full Stop|1979|[🔗](http://www.discogs.com/release/1491850){:target="_blank"}|
+|The Beat|Can't Get Used To Losing You (1983 Remix Version)|1983|[🔗](http://www.discogs.com/release/396598){:target="_blank"}|
+|The Beat|Too Nice To Talk To|1980|[🔗](http://www.discogs.com/release/416933){:target="_blank"}|
+|The Beat|Doors Of Your Heart|1981|[🔗](http://www.discogs.com/release/816628){:target="_blank"}|
+|The Beat|Tears Of A Clown / Ranking Full Stop|1979|[🔗](http://www.discogs.com/release/1491850){:target="_blank"}|
 |The Beatles|Twist And Shout|1969|[🔗](http://www.discogs.com/release/3148198){:target="_blank"}|
 |The Beatles|We Can Work It Out / Day Tripper|1966|[🔗](http://www.discogs.com/release/1914328){:target="_blank"}|
 |The Beatles|Hello, Goodbye|1967|[🔗](http://www.discogs.com/release/1443270){:target="_blank"}|
@@ -1108,12 +1118,12 @@ with links to the Discogs page for each release
 |The Boomtown Rats|She's So Modern|1978|[🔗](http://www.discogs.com/release/485637){:target="_blank"}|
 |The Boomtown Rats|Rat Trap|1978|[🔗](http://www.discogs.com/release/1253225){:target="_blank"}|
 |The Bumps|Bumps Start! E.P.|2010|[🔗](http://www.discogs.com/release/3580622){:target="_blank"}|
-|The Burtons (2) / Jah Wurzel|McArthur Park / Wuthering Heights|1980|[🔗](http://www.discogs.com/release/1235450){:target="_blank"}|
+|The Burtons / Jah Wurzel|McArthur Park / Wuthering Heights|1980|[🔗](http://www.discogs.com/release/1235450){:target="_blank"}|
 |The Byrds|Mr. Tambourine Man|1965|[🔗](http://www.discogs.com/release/469400){:target="_blank"}|
 |The Byrds|All I Really Want To Do|1965|[🔗](http://www.discogs.com/release/469398){:target="_blank"}|
 |The Byrds|Chestnut Mare / All I Really Want To Do|1976|[🔗](http://www.discogs.com/release/1742261){:target="_blank"}|
-|The Cascades (2)|Rhythm Of The Rain|1963|[🔗](http://www.discogs.com/release/1627106){:target="_blank"}|
-|The Cats (2)|Swan Lake / Swing Low|1968|[🔗](http://www.discogs.com/release/1139615){:target="_blank"}|
+|The Cascades|Rhythm Of The Rain|1963|[🔗](http://www.discogs.com/release/1627106){:target="_blank"}|
+|The Cats|Swan Lake / Swing Low|1968|[🔗](http://www.discogs.com/release/1139615){:target="_blank"}|
 |The Champs|Cantina / Panic Button|1961|[🔗](http://www.discogs.com/release/4787842){:target="_blank"}|
 |The Champs|Experiment In Terror / La Cucaracha|1962|[🔗](http://www.discogs.com/release/3373599){:target="_blank"}|
 |The Champs / The Gee-Cees|Sombrero / Buzz Saw||[🔗](http://www.discogs.com/release/3928167){:target="_blank"}|
@@ -1122,7 +1132,7 @@ with links to the Discogs page for each release
 |The Chosen Few / The Now Generation|Shaft||[🔗](http://www.discogs.com/release/10915427){:target="_blank"}|
 |The Clash|Tommy Gun|1978|[🔗](http://www.discogs.com/release/419082){:target="_blank"}|
 |The Clint Boon Experience|White No Sugar|1999|[🔗](http://www.discogs.com/release/1121032){:target="_blank"}|
-|The Cougars (4)|Red Square|1963|[🔗](http://www.discogs.com/release/2404039){:target="_blank"}|
+|The Cougars|Red Square|1963|[🔗](http://www.discogs.com/release/2404039){:target="_blank"}|
 |The Creatures|Wild Things|1981|[🔗](http://www.discogs.com/release/496429){:target="_blank"}|
 |The Creatures|Right Now|1983|[🔗](http://www.discogs.com/release/497467){:target="_blank"}|
 |The Crombies / The Skapones / Annabella Lwin / The Equators|One Heart  (Tribute To Bob Marley And The Wailers)|2017|[🔗](http://www.discogs.com/release/9703082){:target="_blank"}|
@@ -1146,7 +1156,7 @@ with links to the Discogs page for each release
 |The Dell-Vikings|Come Go With Me / Whispering Bells|1979|[🔗](http://www.discogs.com/release/1385474){:target="_blank"}|
 |The Dells|Open Up My Heart / Nadine|1970|[🔗](http://www.discogs.com/release/1264648){:target="_blank"}|
 |The Delta Rhythm Section / The Sound Stylistics|The Getaway / Back On The Streets|2006|[🔗](http://www.discogs.com/release/858992){:target="_blank"}|
-|The Diamonds / The Admirations (6)|Little Darlin' / The Bells Of Rosa Rita||[🔗](http://www.discogs.com/release/3007852){:target="_blank"}|
+|The Diamonds / The Admirations|Little Darlin' / The Bells Of Rosa Rita||[🔗](http://www.discogs.com/release/3007852){:target="_blank"}|
 |The Dickies|Paranoid / I'm OK, You're OK|1978|[🔗](http://www.discogs.com/release/778210){:target="_blank"}|
 |The Dickies|Banana Splits|1979|[🔗](http://www.discogs.com/release/419081){:target="_blank"}|
 |The Divine Comedy|To Die A Virgin|2006|[🔗](http://www.discogs.com/release/759313){:target="_blank"}|
@@ -1175,7 +1185,7 @@ with links to the Discogs page for each release
 |The Four Seasons|The Night|1975|[🔗](http://www.discogs.com/release/967241){:target="_blank"}|
 |The Four Seasons|I've Got You Under My Skin|1966|[🔗](http://www.discogs.com/release/2065567){:target="_blank"}|
 |The Four Seasons|Silver Star|1975|[🔗](http://www.discogs.com/release/7223738){:target="_blank"}|
-|The Fugitives (5) / Byron Lee And The Dragonaires|Cantelope Rock / Apache|2007|[🔗](http://www.discogs.com/release/1096530){:target="_blank"}|
+|The Fugitives / Byron Lee And The Dragonaires|Cantelope Rock / Apache|2007|[🔗](http://www.discogs.com/release/1096530){:target="_blank"}|
 |The Gap Band|Party Lights|1979|[🔗](http://www.discogs.com/release/2438254){:target="_blank"}|
 |The Gap Band|Oops Up Side Your Head|1980|[🔗](http://www.discogs.com/release/1881057){:target="_blank"}|
 |The George Fenton Orchestra|Out|1978|[🔗](http://www.discogs.com/release/3931773){:target="_blank"}|
@@ -1221,17 +1231,17 @@ with links to the Discogs page for each release
 |The John Barry Seven|The Human Jungle|1963|[🔗](http://www.discogs.com/release/2297389){:target="_blank"}|
 |The John Barry Seven And Orchestra|007 / From Russia With Love|1963|[🔗](http://www.discogs.com/release/1745902){:target="_blank"}|
 |The John Schroeder Orchestra|The Fugitive Theme|1965|[🔗](http://www.discogs.com/release/7029845){:target="_blank"}|
-|The King (3)|War Is Over|1999|[🔗](http://www.discogs.com/release/1858614){:target="_blank"}|
-|The King (3)|Little Drummer Boy|1998|[🔗](http://www.discogs.com/release/1858611){:target="_blank"}|
+|The King|War Is Over|1999|[🔗](http://www.discogs.com/release/1858614){:target="_blank"}|
+|The King|Little Drummer Boy|1998|[🔗](http://www.discogs.com/release/1858611){:target="_blank"}|
 |The Kinks|Sunny Afternoon / Tired Of Waiting For You|1986|[🔗](http://www.discogs.com/release/3927572){:target="_blank"}|
 |The Kinks|You Really Got Me|1964|[🔗](http://www.discogs.com/release/5857505){:target="_blank"}|
 |The Kinks|All Day And All Of The Night|1964|[🔗](http://www.discogs.com/release/571415){:target="_blank"}|
 |The Kinks|Till The End Of The Day|1965|[🔗](http://www.discogs.com/release/541882){:target="_blank"}|
-|The Knack (3)|My Sharona|1979|[🔗](http://www.discogs.com/release/1001175){:target="_blank"}|
+|The Knack|My Sharona|1979|[🔗](http://www.discogs.com/release/1001175){:target="_blank"}|
 |The Lambrettas|Poison Ivy|1980|[🔗](http://www.discogs.com/release/570008){:target="_blank"}|
 |The Lambrettas|D-a-a-ance|1980|[🔗](http://www.discogs.com/release/1180079){:target="_blank"}|
-|The League Of Gentlemen (2) / Robert Fripp|Heptaparaparshinokh / Marriagemuzic|1980|[🔗](http://www.discogs.com/release/1474313){:target="_blank"}|
-|The League Of Gentlemen (2) / Robert Fripp|Dislocated / 1984 (January 13th-May 16th)|1981|[🔗](http://www.discogs.com/release/744855){:target="_blank"}|
+|The League Of Gentlemen / Robert Fripp|Heptaparaparshinokh / Marriagemuzic|1980|[🔗](http://www.discogs.com/release/1474313){:target="_blank"}|
+|The League Of Gentlemen / Robert Fripp|Dislocated / 1984 (January 13th-May 16th)|1981|[🔗](http://www.discogs.com/release/744855){:target="_blank"}|
 |The Lee Thompson Ska Orchestra Feat. Bitty McLean|Fu Manchu|2013|[🔗](http://www.discogs.com/release/4901982){:target="_blank"}|
 |The Legendary Stardust Cowboy|Relaxation|1991|[🔗](http://www.discogs.com/release/1849876){:target="_blank"}|
 |The Love Affair|Everlasting Love|1967|[🔗](http://www.discogs.com/release/1135854){:target="_blank"}|
@@ -1244,7 +1254,7 @@ with links to the Discogs page for each release
 |The Maytals|Sweet And Dandy / Oh - Yea|1969|[🔗](http://www.discogs.com/release/3602100){:target="_blank"}|
 |The Maytals / Brentford All Stars|Life Could Be A Dream / Love At First Sight|2013|[🔗](http://www.discogs.com/release/4649730){:target="_blank"}|
 |The Merseys|Sorrow|1966|[🔗](http://www.discogs.com/release/5940348){:target="_blank"}|
-|The Meteors (2)|Johnny Remember Me|1983|[🔗](http://www.discogs.com/release/774271){:target="_blank"}|
+|The Meteors|Johnny Remember Me|1983|[🔗](http://www.discogs.com/release/774271){:target="_blank"}|
 |The Meters|A Message From The Meters / Zony Mash|1970|[🔗](http://www.discogs.com/release/4899860){:target="_blank"}|
 |The Mighty Dogcatchers|It's Gonna Be A Mess|2005|[🔗](http://www.discogs.com/release/600385){:target="_blank"}|
 |The Modern Jazz Quartet|Night In Tunisia / Bags' Groove|1959|[🔗](http://www.discogs.com/release/1908780){:target="_blank"}|
@@ -1265,7 +1275,7 @@ with links to the Discogs page for each release
 |The Nice|America|1968|[🔗](http://www.discogs.com/release/4998861){:target="_blank"}|
 |The Osmonds|Crazy Horses|1972|[🔗](http://www.discogs.com/release/2068662){:target="_blank"}|
 |The Otis And Carla Band / Louise McCord|Tramp / Better Get A Move On|2003|[🔗](http://www.discogs.com/release/8776667){:target="_blank"}|
-|The Paragons (3) / The Snap Shots|Abba / Hip Hip Hurray|2019|[🔗](http://www.discogs.com/release/13145472){:target="_blank"}|
+|The Paragons / The Snap Shots|Abba / Hip Hip Hurray|2019|[🔗](http://www.discogs.com/release/13145472){:target="_blank"}|
 |The Paragons / Earl "Wire" Lindo|Wear You To The Ball / The Ball|2015|[🔗](http://www.discogs.com/release/6845180){:target="_blank"}|
 |The Passions|Hunted|1979|[🔗](http://www.discogs.com/release/1100618){:target="_blank"}|
 |The Passions|I'm In Love With A German Film Star|1981|[🔗](http://www.discogs.com/release/138472){:target="_blank"}|
@@ -1316,7 +1326,7 @@ with links to the Discogs page for each release
 |The Ruts|Babylon's Burning|1979|[🔗](http://www.discogs.com/release/392860){:target="_blank"}|
 |The Ruts|Something That I Said|1979|[🔗](http://www.discogs.com/release/473632){:target="_blank"}|
 |The S.O.S. Band|Just Be Good To Me|1983|[🔗](http://www.discogs.com/release/1697028){:target="_blank"}|
-|The Saints (2)|This Perfect Day|1977|[🔗](http://www.discogs.com/release/477369){:target="_blank"}|
+|The Saints|This Perfect Day|1977|[🔗](http://www.discogs.com/release/477369){:target="_blank"}|
 |The Shadows|Guitar Tango|1962|[🔗](http://www.discogs.com/release/562872){:target="_blank"}|
 |The Shadows|The Rise And Fall Of Flingel Bunt|1964|[🔗](http://www.discogs.com/release/2505312){:target="_blank"}|
 |The Shadows|Stingray|1965|[🔗](http://www.discogs.com/release/1815822){:target="_blank"}|
@@ -1355,6 +1365,8 @@ with links to the Discogs page for each release
 |The Stranglers|5 Minutes|1978|[🔗](http://www.discogs.com/release/609136){:target="_blank"}|
 |The Style Council|Speak Like A Child|1983|[🔗](http://www.discogs.com/release/1255813){:target="_blank"}|
 |The Sundown Playboys|Saturday Night Special|1972|[🔗](http://www.discogs.com/release/2285663){:target="_blank"}|
+|The Supremes|Automatically Sunshine|1972|[🔗](http://www.discogs.com/The-Supremes-Automatically-Sunshine/release/7141430){:target="_blank"}|
+|The Supremes|Floy Joy|1972|[🔗](http://www.discogs.com/The-Supremes-Floy-Joy/release/1925503){:target="_blank"}|
 |The Supremes|Stop! In The Name Of Love|1965|[🔗](http://www.discogs.com/release/563604){:target="_blank"}|
 |The Surfaris|Waikiki Run / Point Panic|1963|[🔗](http://www.discogs.com/release/2060058){:target="_blank"}|
 |The Sweet|Blockbuster !|1973|[🔗](http://www.discogs.com/release/1530838){:target="_blank"}|
@@ -1374,6 +1386,7 @@ with links to the Discogs page for each release
 |The Tornados|Telstar|1962|[🔗](http://www.discogs.com/release/1240431){:target="_blank"}|
 |The Tourists|I Only Want To Be With You|1979|[🔗](http://www.discogs.com/release/3222837){:target="_blank"}|
 |The Trammps|That's Where The Happy People Go|1975|[🔗](http://www.discogs.com/release/499340){:target="_blank"}|
+|The Trammps|Where Do We Go From Here / Shout|1974|[🔗](http://www.discogs.com/The-Trammps-Where-Do-We-Go-From-Here-Shout/release/1869176){:target="_blank"}|
 |The Trammps|Zing Went The Strings Of My Heart|1974|[🔗](http://www.discogs.com/release/501034){:target="_blank"}|
 |The Treble Spankers|A Shot In The Dark|1994|[🔗](http://www.discogs.com/release/2982059){:target="_blank"}|
 |The Treble Spankers|Enola Gay|1997|[🔗](http://www.discogs.com/release/2930424){:target="_blank"}|
@@ -1405,7 +1418,7 @@ with links to the Discogs page for each release
 |The Zombies|She's Not There / Tell Her No||[🔗](http://www.discogs.com/release/3721237){:target="_blank"}|
 |Thelma Houston|Don't Leave Me This Way|1977|[🔗](http://www.discogs.com/release/1296462){:target="_blank"}|
 |Thelma Houston|Suspicious Minds|1980|[🔗](http://www.discogs.com/release/1999188){:target="_blank"}|
-|Them (3)|Here Comes The Night|1965|[🔗](http://www.discogs.com/release/4540289){:target="_blank"}|
+|Them|Here Comes The Night|1965|[🔗](http://www.discogs.com/release/4540289){:target="_blank"}|
 |They Might Be Giants|Birdhouse In Your Soul|1990|[🔗](http://www.discogs.com/release/520244){:target="_blank"}|
 |Thin Lizzy|The Rocker|1973|[🔗](http://www.discogs.com/release/2351783){:target="_blank"}|
 |Three Dog Night|Mama Told Me Not To Come|1970|[🔗](http://www.discogs.com/release/1904460){:target="_blank"}|
@@ -1415,7 +1428,7 @@ with links to the Discogs page for each release
 |Timothy McNealy|Funky Movement No.2 / Sagittarius Black|2001|[🔗](http://www.discogs.com/release/1175184){:target="_blank"}|
 |Tina Charles|I Love To Love|1976|[🔗](http://www.discogs.com/release/131095){:target="_blank"}|
 |Tinga Stewart|Play De Music|1974|[🔗](http://www.discogs.com/release/3522671){:target="_blank"}|
-|Titanic (3)|Sing Fool Sing|1971|[🔗](http://www.discogs.com/release/5414411){:target="_blank"}|
+|Titanic|Sing Fool Sing|1971|[🔗](http://www.discogs.com/release/5414411){:target="_blank"}|
 |Tito Puente / Willie Bobo|Safari  / Be’s The Other Way|2016|[🔗](http://www.discogs.com/release/8410772){:target="_blank"}|
 |Todd Rundgren|I Saw The Light|1972|[🔗](http://www.discogs.com/release/2291478){:target="_blank"}|
 |Todd Terje|Leisure Suit Preben|2014|[🔗](http://www.discogs.com/release/5537356){:target="_blank"}|
@@ -1438,14 +1451,14 @@ with links to the Discogs page for each release
 |Tubeway Army|Down In The Park|1979|[🔗](http://www.discogs.com/release/644426){:target="_blank"}|
 |Tubeway Army|Are 'Friends' Electric?|1979|[🔗](http://www.discogs.com/release/2739414){:target="_blank"}|
 |Tubeway Army|That's Too Bad / Bombers|1979|[🔗](http://www.discogs.com/release/644350){:target="_blank"}|
-|Twinkle (3)|Terry|1964|[🔗](http://www.discogs.com/release/563737){:target="_blank"}|
+|Twinkle|Terry|1964|[🔗](http://www.discogs.com/release/563737){:target="_blank"}|
 |Typically Tropical|Barbados|1975|[🔗](http://www.discogs.com/release/967227){:target="_blank"}|
 |Tyrannosaurus Rex|Debora|1972|[🔗](http://www.discogs.com/release/1141022){:target="_blank"}|
 |UB40|One In Ten / Present Arms In Dub|1981|[🔗](http://www.discogs.com/release/848773){:target="_blank"}|
 |UB40|Rat In Mi Kitchen|1986|[🔗](http://www.discogs.com/release/741712){:target="_blank"}|
 |UB40|The Earth Dies Screaming / Dream A Lie|1980|[🔗](http://www.discogs.com/release/1214874){:target="_blank"}|
 |UB40|King / Food For Thought|1980|[🔗](http://www.discogs.com/release/535243){:target="_blank"}|
-|Undisputed Truth (2)|You + Me = Love|1976|[🔗](http://www.discogs.com/release/846786){:target="_blank"}|
+|Undisputed Truth|You + Me = Love|1976|[🔗](http://www.discogs.com/release/846786){:target="_blank"}|
 |Van Der Graaf Generator|Theme One|1972|[🔗](http://www.discogs.com/release/1447164){:target="_blank"}|
 |Van McCoy|Soul Cha Cha|1976|[🔗](http://www.discogs.com/release/570293){:target="_blank"}|
 |Van McCoy & The Soul City Symphony|The Hustle|1975|[🔗](http://www.discogs.com/release/1230296){:target="_blank"}|
@@ -1471,7 +1484,7 @@ with links to the Discogs page for each release
 |Was (Not Was)|Papa Was A Rolling Stone|1990|[🔗](http://www.discogs.com/release/1737460){:target="_blank"}|
 |Wayne Gibson|Under My Thumb|1974|[🔗](http://www.discogs.com/release/1222830){:target="_blank"}|
 |Weather Report|Birdland|1977|[🔗](http://www.discogs.com/release/4868272){:target="_blank"}|
-|Westworld (2)|Sonic Boom Boy|1987|[🔗](http://www.discogs.com/release/749021){:target="_blank"}|
+|Westworld|Sonic Boom Boy|1987|[🔗](http://www.discogs.com/release/749021){:target="_blank"}|
 |Wham!|Young Guns (Go For It)|1982|[🔗](http://www.discogs.com/release/1245890){:target="_blank"}|
 |Wham!|Wham Rap (Enjoy What You Do) (U.S. Re-Mix. Parts 1 And 2)|1983|[🔗](http://www.discogs.com/release/228792){:target="_blank"}|
 |William DeVaughn|Be Thankful For What You Got|1974|[🔗](http://www.discogs.com/release/900917){:target="_blank"}|
@@ -1480,16 +1493,16 @@ with links to the Discogs page for each release
 |Willie Mitchell|Buster Browne|1968|[🔗](http://www.discogs.com/release/11021618){:target="_blank"}|
 |Willie Nelson|Always On My Mind|1990|[🔗](http://www.discogs.com/release/3927458){:target="_blank"}|
 |Willie Nelson|Blue Eyes Crying In The Rain / Remember Me (When The Candle Lights Are Gleaming)||[🔗](http://www.discogs.com/release/2122754){:target="_blank"}|
-|Wings (2)|Jet|1974|[🔗](http://www.discogs.com/release/733773){:target="_blank"}|
-|Wings (2)|Hi, Hi, Hi / C Moon|1972|[🔗](http://www.discogs.com/release/476509){:target="_blank"}|
+|Wings|Jet|1974|[🔗](http://www.discogs.com/release/733773){:target="_blank"}|
+|Wings|Hi, Hi, Hi / C Moon|1972|[🔗](http://www.discogs.com/release/476509){:target="_blank"}|
 |Winston Groovy|Please Don't Make Me Cry|1970|[🔗](http://www.discogs.com/release/2950008){:target="_blank"}|
 |Wire|I Am The Fly|1978|[🔗](http://www.discogs.com/release/1024023){:target="_blank"}|
 |Wire|Dot Dash|1978|[🔗](http://www.discogs.com/release/310868){:target="_blank"}|
 |Wire|Outdoor Miner|1978|[🔗](http://www.discogs.com/release/1605109){:target="_blank"}|
 |Wire|Kidney Bingos|1988|[🔗](http://www.discogs.com/release/917611){:target="_blank"}|
-|Wizzard (2)|I Wish It Could Be Christmas Every Day|1978|[🔗](http://www.discogs.com/release/2553636){:target="_blank"}|
-|Wizzard (2)|Ball Park Incident|1972|[🔗](http://www.discogs.com/release/3480764){:target="_blank"}|
-|Wizzard (2)|Are You Ready To Rock|1974|[🔗](http://www.discogs.com/release/4047231){:target="_blank"}|
+|Wizzard|I Wish It Could Be Christmas Every Day|1978|[🔗](http://www.discogs.com/release/2553636){:target="_blank"}|
+|Wizzard|Ball Park Incident|1972|[🔗](http://www.discogs.com/release/3480764){:target="_blank"}|
+|Wizzard|Are You Ready To Rock|1974|[🔗](http://www.discogs.com/release/4047231){:target="_blank"}|
 |Wreckless Eric|Reconnez Cherie|1978|[🔗](http://www.discogs.com/release/1576071){:target="_blank"}|
 |Wreckless Eric|Crying, Waiting, Hoping|1978|[🔗](http://www.discogs.com/release/2097126){:target="_blank"}|
 |Wreckless Eric|Sweet Jane / Continuity Girl|2002|[🔗](http://www.discogs.com/release/3394183){:target="_blank"}|
