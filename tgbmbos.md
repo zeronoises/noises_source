@@ -8,7 +8,7 @@ permalink: /tgbmbos/
 
 &nbsp;
 
-The **Great Big Magic Box Of Sevens** (*as of July 12th 2019*)  
+**The Great Big Magic Box Of Sevens** (*as of July 12th 2019*)  
 with a link to the Discogs page for each release
 
 &nbsp;
