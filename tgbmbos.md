@@ -8,7 +8,7 @@ permalink: /tgbmbos/
 
 &nbsp;
 
-**The Great Big Magic Box Of Sevens** (*as of July 12th 2019*)  
+**The Great Big Magic Box Of Sevens** (*as of July 25th 2019*)  
 with a link to the Discogs page for each release
 
 &nbsp;
@@ -268,6 +268,7 @@ with a link to the Discogs page for each release
 |Colourbox|The Official Colourbox World Cup Theme|1986|[link](http://www.discogs.com/release/632780){:target="_blank"}|
 |Commodores|Brick House|1977|[link](http://www.discogs.com/release/1236084){:target="_blank"}|
 |Commodores|Nightshift|1985|[link](http://www.discogs.com/release/775607){:target="_blank"}|
+|Commodores|The Zoo (The Human Zoo)|1974|[link](http://www.discogs.com/The-Commodores-The-Zoo-The-Human-Zoo/release/1596444){:target="_blank"}|
 |Commodores|Machine Gun|1974|[link](http://www.discogs.com/release/417001){:target="_blank"}|
 |Commodores|I Feel Sanctified|1975|[link](http://www.discogs.com/release/2103043){:target="_blank"}|
 |Cortex|L'Enfant Samba|2018|[link](http://www.discogs.com/release/11717489){:target="_blank"}|
@@ -276,6 +277,7 @@ with a link to the Discogs page for each release
 |Cowboy Junkies|Blue Moon Revisited (Song For Elvis)|1989|[link](http://www.discogs.com/release/632910){:target="_blank"}|
 |Cowboy Junkies|'Cause Cheap Is How I Feel|1990|[link](http://www.discogs.com/release/2159248){:target="_blank"}|
 |Cozy Powell|Theme One|1979|[link](http://www.discogs.com/release/2303754){:target="_blank"}|
+|Cozy Powell|The Man In Black|[link](http://www.discogs.com/Cozy-Powell-The-Man-In-Black-/release/743829){:target="_blank"}|
 |Cozy Powell|Dance With The Devil|1973|[link](http://www.discogs.com/release/413987){:target="_blank"}|
 |Crash Test Dummies|Mmm Mmm Mmm Mmm|1993|[link](http://www.discogs.com/release/3199900){:target="_blank"}|
 |Crash Test Dummies|Afternoons & Coffeespoons|1994|[link](http://www.discogs.com/release/2442481){:target="_blank"}|
@@ -409,6 +411,7 @@ with a link to the Discogs page for each release
 |Emerson, Lake & Palmer|Fanfare For The Common Man|1977|[link](http://www.discogs.com/release/472012){:target="_blank"}|
 |Ennio Morricone|Chi Mai|1981|[link](http://www.discogs.com/release/240175){:target="_blank"}|
 |Erasure|Crackers International|1988|[link](http://www.discogs.com/release/99639){:target="_blank"}|
+|Erasure|Blue Savannah|1990|[link](http://www.discogs.com/Erasure-Blue-Savannah/release/178925){:target="_blank"}|
 |Erasure|Abba-Esque|1992|[link](http://www.discogs.com/release/170334){:target="_blank"}|
 |Erasure|Sometimes|1986|[link](http://www.discogs.com/release/100914){:target="_blank"}|
 |Erasure|The Circus (Remix)|1987|[link](http://www.discogs.com/release/100925){:target="_blank"}|
@@ -443,6 +446,7 @@ with a link to the Discogs page for each release
 |Fleetwood Mac|Tusk|1979|[link](http://www.discogs.com/release/6022660){:target="_blank"}|
 |Fleetwood Mac / Earl Vince & The Valiants|Man Of The World / Somebody's Gonna Get Their Head Kicked In Tonite|1969|[link](http://www.discogs.com/release/1764682){:target="_blank"}|
 |Four Tops|Reach Out I'll Be There|1966|[link](http://www.discogs.com/release/702928){:target="_blank"}|
+|Four Tops|Yesterday's Dreams / For Once In My Life|1968|[link](http://www.discogs.com/Four-Tops-Yesterdays-Dreams-For-Once-In-My-Life/release/1321803){:target="_blank"}|
 |Four Tops|Simple Game / Still Water (Love)|1980|[link](http://www.discogs.com/release/3398789){:target="_blank"}|
 |Frank Chickens|Blue Canary|1984|[link](http://www.discogs.com/release/839059){:target="_blank"}|
 |Frank Sinatra|Nice 'N' Easy / This Was My Love|1960|[link](http://www.discogs.com/release/2466601){:target="_blank"}|
@@ -470,6 +474,7 @@ with a link to the Discogs page for each release
 |Generation X|King Rocker|1979|[link](http://www.discogs.com/release/1424020){:target="_blank"}|
 |George Benson|Give Me The Night|1980|[link](http://www.discogs.com/release/4845332){:target="_blank"}|
 |George McCrae|Rock Your Baby|1974|[link](http://www.discogs.com/release/1643794){:target="_blank"}|
+|George McCrae|I Ain't Lyin'|1975|[link](https://www.discogs.com/George-McCrae-I-Aint-Lyin/release/748412){:target="_blank"}|
 |George McCrae|I Can't Leave You Alone|1974|[link](http://www.discogs.com/release/1270269){:target="_blank"}|
 |George Michael|Faith|1987|[link](http://www.discogs.com/release/1569757){:target="_blank"}|
 |Georgie Fame|Yeh, Yeh / Getaway|1980|[link](http://www.discogs.com/release/3484920){:target="_blank"}|
@@ -622,6 +627,7 @@ with a link to the Discogs page for each release
 |Julian Cope|World Shut Your Mouth|1992|[link](http://www.discogs.com/release/3066587){:target="_blank"}|
 |Julie Covington|Don't Cry For Me Argentina|1976|[link](http://www.discogs.com/release/748455){:target="_blank"}|
 |Junior|Mama Used To Say (American Remix)|1981|[link](http://www.discogs.com/release/1582906){:target="_blank"}|
+|Junior Walker & The All Stars|What Does It Take (To Win Your Love)|1969|[link](http://www.discogs.com/Junior-Walker-The-All-Stars-What-Does-It-Take-To-Win-Your-Love/release/729368){:target="_blank"}|
 |Junior Walker & The All Stars|Walk In The Night|1972|[link](http://www.discogs.com/release/1358469){:target="_blank"}|
 |Just Brothers|Sliced Tomatoes||[link](http://www.discogs.com/release/4549965){:target="_blank"}|
 |KC & The Sunshine Band|Give It Up|1982|[link](http://www.discogs.com/release/1499101){:target="_blank"}|
@@ -884,6 +890,7 @@ with a link to the Discogs page for each release
 |Redbone|The Witch Queen Of New Orleans|1971|[link](http://www.discogs.com/release/443661){:target="_blank"}|
 |Redbone|The Witch Queen Of New Orleans|1971|[link](http://www.discogs.com/release/5646390){:target="_blank"}|
 |Retriever|Murder / Lion|2010|[link](http://www.discogs.com/release/3610524){:target="_blank"}|
+|Rick James|You And I|1978|[link](http://www.discogs.com/Rick-James-You-And-I/release/4436733){:target="_blank"}|
 |Roachford|Cuddly Toy|1988|[link](http://www.discogs.com/release/1759297){:target="_blank"}|
 |Roachford|Family Man|1989|[link](http://www.discogs.com/release/1749264){:target="_blank"}|
 |Robert Fripp|Under Heavy Manners|1980|[link](http://www.discogs.com/release/4076533){:target="_blank"}|
@@ -894,6 +901,7 @@ with a link to the Discogs page for each release
 |Robert Palmer|Johnny & Mary|1980|[link](http://www.discogs.com/release/1379520){:target="_blank"}|
 |Robert Palmer|Looking For Clues|1980|[link](http://www.discogs.com/release/3033924){:target="_blank"}|
 |Robert Palmer|Looking For Clues|1980|[link](http://www.discogs.com/release/1077937){:target="_blank"}|
+|Robert Palmer|Mercy Mercy Me / I Want You|1990|[link](http://www.discogs.com/Robert-Palmer-Mercy-Mercy-Me-I-Want-You/release/1759286){:target="_blank"}|
 |Robert Palmer And UB40|I'll Be Your Baby Tonight|1990|[link](http://www.discogs.com/release/1663951){:target="_blank"}|
 |Robert Wyatt|At Last I Am Free / Strange Fruit|1980|[link](http://www.discogs.com/release/6234967){:target="_blank"}|
 |Robert Wyatt|Shipbuilding / Memories Of You|1983|[link](http://www.discogs.com/release/1708247){:target="_blank"}|
@@ -909,6 +917,7 @@ with a link to the Discogs page for each release
 |Roland Alphonso|Stranger For Durango / Sounds Of Silence|2011|[link](http://www.discogs.com/release/3916229){:target="_blank"}|
 |Roland Alphonso & The Studio One Orchestra|From Russia With Love / Cleopatra|2013|[link](http://www.discogs.com/release/4623645){:target="_blank"}|
 |Roogalator|Zero Hero|1978|[link](http://www.discogs.com/release/2268720){:target="_blank"}|
+|Rosebud|Have A Cigar / Money|1977|[link](http://www.discogs.com/Rosebud-Have-A-Cigar-Money/release/4445065){:target="_blank"}|
 |Rose Royce|Is It Love You're After|1979|[link](http://www.discogs.com/release/337276){:target="_blank"}|
 |Rose Royce|Is It Love You're After|1979|[link](http://www.discogs.com/release/1295833){:target="_blank"}|
 |Rosetta Stone|Sunshine Of Your Love|1977|[link](http://www.discogs.com/release/1818004){:target="_blank"}|
@@ -1048,6 +1057,7 @@ with a link to the Discogs page for each release
 |Suzi Quatro|Devil Gate Drive|1974|[link](http://www.discogs.com/release/766054){:target="_blank"}|
 |Suzy Brown / Anne & Annis Peters|Reggae Disco Special|2017|[link](http://www.discogs.com/release/10114533){:target="_blank"}|
 |Swing Out Sister|Breakout|1986|[link](http://www.discogs.com/release/1740107){:target="_blank"}|
+|Sybil|Don't Make Me Over|1989|[link](http://www.discogs.com/Sybil-Dont-Make-Me-Over/release/8754340){:target="_blank"}|
 |Sydney Youngblood|If Only I Could|1989|[link](http://www.discogs.com/release/1569763){:target="_blank"}|
 |Sylvester|Over And Over|1977|[link](http://www.discogs.com/release/4007576){:target="_blank"}|
 |Sylvester|Down, Down, Down|1977|[link](http://www.discogs.com/release/1396642){:target="_blank"}|
@@ -1327,6 +1337,7 @@ with a link to the Discogs page for each release
 |The Ruts|Something That I Said|1979|[link](http://www.discogs.com/release/473632){:target="_blank"}|
 |The S.O.S. Band|Just Be Good To Me|1983|[link](http://www.discogs.com/release/1697028){:target="_blank"}|
 |The Saints|This Perfect Day|1977|[link](http://www.discogs.com/release/477369){:target="_blank"}|
+|The Sensational Alex Harvey Band|Amos Moses|1976|[link](http://www.discogs.com/The-Sensational-Alex-Harvey-Band-Amos-Moses/release/2428383){:target="_blank"}|
 |The Shadows|Guitar Tango|1962|[link](http://www.discogs.com/release/562872){:target="_blank"}|
 |The Shadows|The Rise And Fall Of Flingel Bunt|1964|[link](http://www.discogs.com/release/2505312){:target="_blank"}|
 |The Shadows|Stingray|1965|[link](http://www.discogs.com/release/1815822){:target="_blank"}|
@@ -1512,6 +1523,7 @@ with a link to the Discogs page for each release
 |XTC|Senses Working Overtime|1982|[link](http://www.discogs.com/release/474734){:target="_blank"}|
 |XTC|Ball And Chain|1982|[link](http://www.discogs.com/release/585223){:target="_blank"}|
 |XTC|Love On A Farmboy's Wages|1983|[link](http://www.discogs.com/release/551909){:target="_blank"}|
+|XTC|All You Pretty Girls|1984|[link](http://www.discogs.com/XTC-All-You-Pretty-Girls/release/1662474){:target="_blank"}|
 |Yamasuki|Yamasuki|1971|[link](http://www.discogs.com/release/2106733){:target="_blank"}|
 |Yarbrough & Peoples|Don't Stop The Music|1980|[link](http://www.discogs.com/release/3236221){:target="_blank"}|
 |Yazoo|Only You|1982|[link](http://www.discogs.com/release/1243707){:target="_blank"}|
