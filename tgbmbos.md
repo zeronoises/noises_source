@@ -8,7 +8,7 @@ permalink: /tgbmbos/
 
 &nbsp;
 
-**The Great Big Magic Box Of Sevens** (*as of July 25th 2019*)  
+**The Great Big Magic Box Of Sevens** (*as of August 9th 2019*)  
 with a link to the Discogs page for each release
 
 &nbsp;
@@ -335,6 +335,7 @@ with a link to the Discogs page for each release
 |Depeche Mode|Personal Jesus|1989|[link](http://www.discogs.com/release/44976){:target="_blank"}|
 |Depeche Mode|Policy Of Truth|1990|[link](http://www.discogs.com/release/53174){:target="_blank"}|
 |Desmond Dekker & The Aces|It Miek|1969|[link](http://www.discogs.com/release/1299602){:target="_blank"}|
+|Detroit Emeralds|Feel The Need In Me|1972|[link](http://www.discogs.com/Detroit-Emeralds-Feel-The-Need-In-Me/release/1382540){:target="_blank"}|
 |Devo|Jocko Homo / Mongoloid|1978|[link](http://www.discogs.com/release/442843){:target="_blank"}|
 |Devo|Whip It|1980|[link](http://www.discogs.com/release/109992){:target="_blank"}|
 |Dexys Midnight Runners|Geno|1980|[link](http://www.discogs.com/release/2439109){:target="_blank"}|
@@ -684,6 +685,7 @@ with a link to the Discogs page for each release
 |Linda Hopkins|It's In Your Blood|1977|[link](http://www.discogs.com/release/4028156){:target="_blank"}|
 |Linda Lewis|It's In His Kiss|1975|[link](http://www.discogs.com/release/1265230){:target="_blank"}|
 |Linda Lewis|Rock A Doodle Doo|1973|[link](http://www.discogs.com/release/1752988){:target="_blank"}|
+|Link Wray|It's All Over Now Baby Blue|1979|[link](https://www.discogs.com/Link-Wray-Its-All-Over-Now-Baby-Blue/release/3306556){:target="_blank"}|
 |Lionel Richie|All Night Long (All Night)|1983|[link](http://www.discogs.com/release/4829325){:target="_blank"}|
 |Lipps, Inc.|Funkytown|1980|[link](http://www.discogs.com/release/141200){:target="_blank"}|
 |Little Jimmy Dickens|May The Bird Of Paradise Fly Up Your Nose|1965|[link](http://www.discogs.com/release/5949345){:target="_blank"}|
@@ -911,6 +913,7 @@ with a link to the Discogs page for each release
 |Robert Wyatt / Disharhi|Grass / Trade Union|1981|[link](http://www.discogs.com/release/547611){:target="_blank"}|
 |Robot|Machine Dance / Robot Discomedy (Medley)|1978|[link](http://www.discogs.com/release/819314){:target="_blank"}|
 |Rock Goddess|I Didn't Know I Loved You (Till I Saw You Rock And Roll)|1984|[link](http://www.discogs.com/release/2783935){:target="_blank"}|
+|Rockin' Sidney|My Toot Toot|1985|[link](https://www.discogs.com/Rockin-Sidney-My-Toot-Toot/release/3561726){:target="_blank"}|
 |Rocky Sharpe & The Replays|The Martian Hop|1980|[link](http://www.discogs.com/release/1885266){:target="_blank"}|
 |Rodger Collins|She's Looking Good|1976|[link](http://www.discogs.com/release/3336973){:target="_blank"}|
 |Roger Powell|Pipeline / March Of The Dragon Slayer|1978|[link](http://www.discogs.com/release/1522551){:target="_blank"}|
@@ -1056,6 +1059,7 @@ with a link to the Discogs page for each release
 |Suzi Quatro|Can The Can|1973|[link](http://www.discogs.com/release/6447346){:target="_blank"}|
 |Suzi Quatro|Devil Gate Drive|1974|[link](http://www.discogs.com/release/766054){:target="_blank"}|
 |Suzy Brown / Anne & Annis Peters|Reggae Disco Special|2017|[link](http://www.discogs.com/release/10114533){:target="_blank"}|
+|Sweet Music|I Get Lifted|1976|[link](https://www.discogs.com/Sweet-Music-I-Get-Lifted/release/562423)
 |Swing Out Sister|Breakout|1986|[link](http://www.discogs.com/release/1740107){:target="_blank"}|
 |Sybil|Don't Make Me Over|1989|[link](http://www.discogs.com/Sybil-Dont-Make-Me-Over/release/8754340){:target="_blank"}|
 |Sydney Youngblood|If Only I Could|1989|[link](http://www.discogs.com/release/1569763){:target="_blank"}|
@@ -1186,6 +1190,7 @@ with a link to the Discogs page for each release
 |The Fatback Band|Yum, Yum (Gimme Some)|1975|[link](http://www.discogs.com/release/891652){:target="_blank"}|
 |The Fatback Band|(Are You Ready) Do The Bus Stop|1975|[link](http://www.discogs.com/release/536896){:target="_blank"}|
 |The Fentones|The Mexican|1962|[link](http://www.discogs.com/release/2472468){:target="_blank"}|
+|The Fifth Dimension|One Less Bell To Answer / Feelin' Alright?|1970|[link](https://www.discogs.com/The-5th-Dimension-One-Less-Bell-To-Answer-Feelin-Alright/release/9801095){:target="_blank"}|
 |The Fifth Dimension|Love Hangover|1976|[link](http://www.discogs.com/release/1533394){:target="_blank"}|
 |The Fifth Dimension|A Touch Of Magic|1972|[link](http://www.discogs.com/release/2508076){:target="_blank"}|
 |The Flamin' Groovies|Shake Some Action|2012|[link](http://www.discogs.com/release/3556403){:target="_blank"}|
@@ -1274,6 +1279,7 @@ with a link to the Discogs page for each release
 |The Move|Fire Brigade|1968|[link](http://www.discogs.com/release/471915){:target="_blank"}|
 |The Move|Curly|1969|[link](http://www.discogs.com/release/469765){:target="_blank"}|
 |The Move|Brontosaurus|1970|[link](http://www.discogs.com/release/474345){:target="_blank"}|
+|The Music Makers|United|1967|[link](https://www.discogs.com/The-Music-Makers-United/release/2304372){:target="_blank"}|
 |The Mystic Moods Orchestra|Cosmic Sea|1973|[link](http://www.discogs.com/release/5774796){:target="_blank"}|
 |The Mystic Moods|Honey Trippin'|1976|[link](https://www.discogs.com/release/2248372){:target="_blank"}|
 |The Mystic Sounds|エクソシスト = Tubular Bells|1974|[link](http://www.discogs.com/release/5012165){:target="_blank"}|
@@ -1305,6 +1311,7 @@ with a link to the Discogs page for each release
 |The Pretenders|Don't Get Me Wrong|1986|[link](http://www.discogs.com/release/553802){:target="_blank"}|
 |The Pretenders|Precious|1980|[link](http://www.discogs.com/release/615917){:target="_blank"}|
 |The Pretenders|Brass In Pocket (I'm Special)|1980|[link](http://www.discogs.com/release/1202066){:target="_blank"}|
+|The Pretty Things|Don't Bring Me Down|1964|[link](https://www.discogs.com/Pretty-Things-Dont-Bring-Me-Down/release/5944671){:target="_blank"}|
 |The Pretty Things|Rosalyn|1964|[link](http://www.discogs.com/release/3601603){:target="_blank"}|
 |The Pretty Things|Midnight To Six Man|1965|[link](http://www.discogs.com/release/1843992){:target="_blank"}|
 |The Pretty Things|Honey, I Need|1965|[link](http://www.discogs.com/release/660439){:target="_blank"}|
@@ -1352,6 +1359,7 @@ with a link to the Discogs page for each release
 |The Sisters Of Mercy|Whistle Test Studios||[link](http://www.discogs.com/release/2288125){:target="_blank"}|
 |The Smiths|How Soon Is Now?|1985|[link](http://www.discogs.com/release/586504){:target="_blank"}|
 |The Soul Vendors|Frozen Soul||[link](http://www.discogs.com/release/2923037){:target="_blank"}|
+|The Soulful Strings|I Wish It Would Rain|1969|[link](https://www.discogs.com/The-Soulful-Strings-I-Wish-It-Would-Rain/release/2257120){:target="_blank"}|
 |The Source Featuring Candi Staton|You Got The Love (Erens Bootleg Mix)|1991|[link](http://www.discogs.com/release/523418){:target="_blank"}|
 |The Space Lady|Major Tom / Radar Love|2013|[link](http://www.discogs.com/release/4973558){:target="_blank"}|
 |The Special AKA|War Crimes|1982|[link](http://www.discogs.com/release/2598807){:target="_blank"}|
