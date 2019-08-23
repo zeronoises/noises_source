@@ -8,7 +8,7 @@ permalink: /tgbmbos/
 
 &nbsp;
 
-**The Great Big Magic Box Of Sevens** (*as of August 9th 2019*)  
+**The Great Big Magic Box Of Sevens** (*as of August 23rd 2019*)  
 with a link to the Discogs page for each release
 
 &nbsp;
@@ -181,6 +181,7 @@ with a link to the Discogs page for each release
 |Bow Wow Wow|Go Wild In The Country|1982|[link](http://www.discogs.com/release/1000475){:target="_blank"}|
 |Bow Wow Wow|I Want Candy|1982|[link](http://www.discogs.com/release/418690){:target="_blank"}|
 |Boxer|Hey Bulldog (Stereo) / Hey Bulldog (Mono)|1976|[link](http://www.discogs.com/release/5842531){:target="_blank"}|
+|Boyd Bennet|Boogie Bear|1959|[link](https://www.discogs.com/Boyd-Bennett-Boogie-Bear/release/5553496){:target="_blank"}|
 |Boys Town Gang|Can't Take My Eyes Off You|1982|[link](http://www.discogs.com/release/163208){:target="_blank"}|
 |Brain Washington|Bad Acid / L.S.D.|2012|[link](http://www.discogs.com/release/2927978){:target="_blank"}|
 |Brass Construction|Walkin' The Line|1983|[link](http://www.discogs.com/release/4055136){:target="_blank"}|
@@ -547,6 +548,7 @@ with a link to the Discogs page for each release
 |Inspiral Carpets|Saturn 5|1994|[link](http://www.discogs.com/release/1758008){:target="_blank"}|
 |Inspiral Carpets|This Is How It Feels|1990|[link](http://www.discogs.com/release/556559){:target="_blank"}|
 |Isaac Hayes|Juicy Fruit (Disco Freak)|1976|[link](http://www.discogs.com/release/1542019){:target="_blank"}|
+|Isaac Hayes|Don't Let Go|1979|[linl](https://www.discogs.com/Isaac-Hayes-Dont-Let-Go/release/5498631){:target="_blank"}|
 |Isaac Hayes Movement|Disco Connection|1976|[link](http://www.discogs.com/release/346366){:target="_blank"}|
 |Ivory Joe Hunter / The Quotations|Almost Lost My Mind / Imagination|1986|[link](http://www.discogs.com/release/1944293){:target="_blank"}|
 |Jackie Mittoo|Wall Street|2008|[link](http://www.discogs.com/release/1237580){:target="_blank"}|
@@ -1422,6 +1424,7 @@ with a link to the Discogs page for each release
 |The Velvet Underground|Foggy Notion / I Can't Stand It|2011|[link](http://www.discogs.com/release/2832892){:target="_blank"}|
 |The Velvet Underground & Lou Reed|Sweet Jane|2012|[link](http://www.discogs.com/release/3553477){:target="_blank"}|
 |The Ventures|The 2,000 Pound Bee|1962|[link](http://www.discogs.com/release/5748914){:target="_blank"}|
+|The Ventures|El Cumbanchero|1963|[link](https://www.discogs.com/The-Ventures-El-Cumbanchero/release/2740944){:target="_blank"}|
 |The Ventures|Slaughter On Tenth Avenue|1964|[link](http://www.discogs.com/release/2414543){:target="_blank"}|
 |The Ventures|Perfidia|1960|[link](http://www.discogs.com/release/563875){:target="_blank"}|
 |The Ventures|Surfin' & Spyin'|1981|[link](http://www.discogs.com/release/4543335){:target="_blank"}|
