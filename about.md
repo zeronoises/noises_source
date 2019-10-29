@@ -19,6 +19,8 @@ Each show follows a simple presentation format: three (sometimes more, occasiona
 
 You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wave, bossa nova, post-punk, rock, prog, ska, garage, bluebeat, soul, rockabilly, punk, doo wop, be bop, hip hop, power pop, jazz, klezmer, mariachi, psychedelia, country, rhythm & blues and whatever else he can lay his hands on. Probably not techno, heavy metal or polkas. Probably.
 
+Archived shows are available [here](https://hearthis.at/zerocc/set/surface-noise/).
+
 &nbsp;
 
 ![](https://lh3.googleusercontent.com/Gp9XyotmRDPDEBnoaLPN_1tmPnAwyH2uyEbOXpaM_hPRFRLOyHKHGLhdruXDcfIj_-GrP7YJ2nkA7RnoDF2sTbZSZmf6ynGJFGgimi4j3lr-FtnIz5JlxDKKB-o23w25l23GmAlEhGbnaKWXw4-0tzwIsGw32jB0GpGDvwXMCLdDE7RMEksaC4NIqu163gabbA8zYDQR9UeFO_6IqeD1askKMWLVNAoEPnCTjibRuHN428MgZNKdNj-1e_b52k_Dv858P0PcZXLhfNKwNN-H7uo8VjO1HjeekJTPuf9WLnvy3BW8c1-RFIgEHGeU2zn9LLe9WXAvn7PfKPqIPPIsLkp2er3SQ6-TG8yQ19OYayJMitWqr6dNe4aJA--6ZWqXrgF4UjR1SFl6XdUuLmeoibkZHRyoojBrkl7w1Kxo5kCRfPVNRWNreORS7auB7OI7Alktytz2R-JLGo1o4MGX2Cnh0nP-TSdTZSHpK4GjIM0xCxJynGpLLiX5eXpW8FHZBcDseAtiKMXiWokpoDZWsGyucIYf3ET1fBIRD628e1m_mAM2BkySehG0ZaapJsaIT96y5y5B8gHwzZzl5_KC1mlUUWELbRqxWlYiOA8o6PiNMIIhi2JF-kuqQs58g-YFpFLyD18H_KmlZcp6glgQ_nKCFWB8fOQmIWKaN5pZqW3E8IU=s256-no)
@@ -28,3 +30,5 @@ You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wav
 **Other Noises** features music from Zero's digital collection, each show having an arbitrary theme to constrain the selection. This makes sure that there are lots of surprises - little gems that have been buried in the digital vault waiting for release... Early shows didn't have the thematic format and so tended to be a bit self-indulgent.
 
 The range of genres is, if anything, even broader than **Surface Noise**...
+
+Archived shows are available [here](https://hearthis.at/zerocc/set/other-noises/).
