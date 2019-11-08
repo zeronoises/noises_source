@@ -278,7 +278,7 @@ with a link to the Discogs page for each release
 |Cowboy Junkies|Blue Moon Revisited (Song For Elvis)|1989|[link](http://www.discogs.com/release/632910){:target="_blank"}|
 |Cowboy Junkies|'Cause Cheap Is How I Feel|1990|[link](http://www.discogs.com/release/2159248){:target="_blank"}|
 |Cozy Powell|Theme One|1979|[link](http://www.discogs.com/release/2303754){:target="_blank"}|
-|Cozy Powell|The Man In Black|[link](http://www.discogs.com/Cozy-Powell-The-Man-In-Black-/release/743829){:target="_blank"}|
+|Cozy Powell|The Man In Black|1974|[link](http://www.discogs.com/Cozy-Powell-The-Man-In-Black-/release/743829){:target="_blank"}|
 |Cozy Powell|Dance With The Devil|1973|[link](http://www.discogs.com/release/413987){:target="_blank"}|
 |Crash Test Dummies|Mmm Mmm Mmm Mmm|1993|[link](http://www.discogs.com/release/3199900){:target="_blank"}|
 |Crash Test Dummies|Afternoons & Coffeespoons|1994|[link](http://www.discogs.com/release/2442481){:target="_blank"}|
