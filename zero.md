@@ -4,7 +4,7 @@ title: zero
 permalink: /zero/
 ---
 
-![](https://lh3.googleusercontent.com/ed6Vn39mPLYimHlAcLNcRxjNVtJhfjTH4FFILLAdLxg2s8p4x5UDYtXbwQinaN5l8wNibX5oepaE1c7KZrTKGkaX-zXrgZUnc1FDsv3X1u7UMegvJ5ABxUFB3pYlyyhH5LnofSVEWOW56Nn44AsahC_YWdmbUDI_E6C7qpa-PoGwVQyayE42vMMDKS5IYh2RXvmTRbkoVoqDqSdzg7-_Hf_ibqM-QIrDrB9KWzYAwECLXruHZdf-_WJbGu5DTMSx_XUsECL_sSrRorloYPReyjTiAB4a5GEcDtfR88MRjTQ3SPoorrswAy_bORv5dTQS8HJO9OOLj4ng699QK7gxKFW7IZVvpz6c3B5UyHBW_0XJHbC53TiiX1sCt4KVdybua7hYdGxejqbSNBiBDh4tFPXf9GxQfu1MmQQpVONHWIYSWVl5PPW2T0VYX-Vb_seeoCt6E-kM6egyGWIpcoTe4jmMDoibMFuvRYzfhCSwbhJFj70Mjz6qF0RGLINMHK2JW5u3JUxsapRDAUJ12nEiX0VHk1C4yuHY0XTBLtZWUzcv-2c1fc71GZRUSXqxfHDw2undIYmylfGGyd_sxUm1avIPYRpIQwCVB-0w6nyAs1QaD6qfhZJoKMEgjhS3iqJz4FNR0vLa98m2dJTQZoS1-K2C=s600-no)
+[![zero-at-the-sandbar-2010.jpg](https://i.postimg.cc/PqyysZRP/zero-at-the-sandbar-2010.jpg)](https://postimg.cc/1ggwDgPQ)
 
 &nbsp;
 
