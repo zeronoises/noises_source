@@ -19,7 +19,7 @@ Each show follows a simple presentation format: three (sometimes more, occasiona
 
 You can expect to hear surf, funk, soul, reggae, glam, disco, synth-pop, new wave, bossa nova, post-punk, rock, prog, ska, garage, bluebeat, soul, rockabilly, punk, doo wop, be bop, hip hop, power pop, jazz, klezmer, mariachi, psychedelia, country, rhythm & blues and whatever else he can lay his hands on. Probably not techno, heavy metal or polkas. Probably.
 
-Archived shows are available [here](https://hearthis.at/zerocc/set/surface-noise/).
+Archived shows are available [here](https://www.mixcloud.com/zero_cc/playlists/surface-noise/).
 
 &nbsp;
 
@@ -31,4 +31,4 @@ Archived shows are available [here](https://hearthis.at/zerocc/set/surface-noise
 
 The range of genres is, if anything, even broader than **Surface Noise**...
 
-Archived shows are available [here](https://hearthis.at/zerocc/set/other-noises/).
+Archived shows are available [here](https://www.mixcloud.com/zero_cc/playlists/other-noises/).
